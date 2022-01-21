@@ -14,5 +14,5 @@ Taze adam is a platformer. It has excellent soundtrack. But it's a "little" hard
 [Mac OS X](https://www.mediafire.com/file/wioh6r2xk7n116t/TazeAdamMacOSX.zip/file)
 [WebGL](https://simmer.io/@SpaceChuck/taze-adam)
 
-<iframe src="https://i.simmer.io/@SpaceChuck/taze-adam" style="width:960px;height:600px;border:0"></iframe>
+<iframe src="https://i.simmer.io/@SpaceChuck/taze-adam" style="width:1024px;height:720px;border:0"></iframe>
 
