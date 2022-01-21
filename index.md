@@ -4,17 +4,15 @@
 
 Taze adam bir platform oyunudur. Aşırı iyi müziği vardır. Ama "biraz" zordur.
 
-# Oyna
-
-[Mac OS X](https://www.mediafire.com/file/wioh6r2xk7n116t/TazeAdamMacOSX.zip/file)
-[WebGL](https://simmer.io/@SpaceChuck/taze-adam)
-
 ## English
 
 Taze adam is a platformer. It has excellent soundtrack. But it's a "little" hard.
 
-# Play
+
+# Play/Oyna
 
 [Mac OS X](https://www.mediafire.com/file/wioh6r2xk7n116t/TazeAdamMacOSX.zip/file)
 [WebGL](https://simmer.io/@SpaceChuck/taze-adam)
+
+<iframe src="https://i.simmer.io/@SpaceChuck/taze-adam" style="width:960px;height:600px;border:0"></iframe>
 
