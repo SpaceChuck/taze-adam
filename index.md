@@ -31,5 +31,5 @@ Taze adam is a platformer. It has excellent soundtrack. But it’s a “little�
 <iframe src=“https://i.simmer.io/@SpaceChuck/taze-adam” style=“width:1024px;height:720px;border:0”></iframe>
 
 # Türkçe websitesini mi arıyorsunuz?
-Türkçe websitesi artık [burada](indextr.md)
+Türkçe websitesi artık [burada](https://spacechuck.github.io/taze-adam/indextr)
 
