@@ -12,8 +12,6 @@ Taze Adam artık 3D! Mac OS X, Linux ve Windows için indirebilirsiniz. Mobil ve
 [Mac OS X](https://www.mediafire.com/file/8j1kfs05wwa8qn9/Taze_Adam_3D.app.zip/file)
 [Linux](https://www.mediafire.com/file/t441iiytcth33nt/LinuxTazeAdam.zip/file)
 
-## Türkçe
-
 Taze adam bir platform oyunudur. Aşırı iyi müziği vardır. Ama "biraz" zordur.
 
 
