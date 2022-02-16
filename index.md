@@ -4,13 +4,15 @@ The world’s freshest website!
 
 # Taze Adam 3D
 
-Taze Adam is now in 3D! Download for Windows, Mac and Linux now! Mobile version coming soon.
+Taze Adam is now in 3D! Download for Windows, Mac, Linux and Android!
 
 ## Play
 [Windows (64-bit)](https://www.mediafire.com/file/4zayh09cdtyowsm/TazeAdam3DWindows.zip/file)
 [Windows (32-bit)](https://www.mediafire.com/file/xf9tjr740n5lyf3/TazeAdam3D32Windows.zip/file)
 [Mac OS X](https://www.mediafire.com/file/8j1kfs05wwa8qn9/Taze_Adam_3D.app.zip/file)
 [Linux](https://www.mediafire.com/file/t441iiytcth33nt/LinuxTazeAdam.zip/file)
+
+[Android](https://www.mediafire.com/file/oo2krmrb16otnuo/AndroidAdam3D.apk/file)
 
 # Taze Adam
 
