@@ -4,13 +4,15 @@ Dünyanın en taze websitesi!
 
 # Taze Adam 3D
 
-Taze Adam artık 3D! Mac OS X, Linux ve Windows için indirebilirsiniz. Mobil versiyon daha sonra çıkacak.
+Taze Adam artık 3D! Mac OS X, Windows, Linux ve Android için indirebilirsiniz.
 
 ## Taze Adam 3D Oyna
 [Windows (64-bit)](https://www.mediafire.com/file/4zayh09cdtyowsm/TazeAdam3DWindows.zip/file)
 [Windows (32-bit)](https://www.mediafire.com/file/xf9tjr740n5lyf3/TazeAdam3D32Windows.zip/file)
 [Mac OS X](https://www.mediafire.com/file/8j1kfs05wwa8qn9/Taze_Adam_3D.app.zip/file)
 [Linux](https://www.mediafire.com/file/t441iiytcth33nt/LinuxTazeAdam.zip/file)
+
+[Android](https://www.mediafire.com/file/oo2krmrb16otnuo/AndroidAdam3D.apk/file)
 
 # Taze Adam
 Taze adam bir platform oyunudur. Aşırı iyi müziği vardır. Ama "biraz" zordur.
