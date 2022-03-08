@@ -30,5 +30,7 @@ Taze adam bir platform oyunudur. Aşırı iyi müziği vardır. Ama "biraz" zord
 [WebGL](https://spacechuck.github.io/play-taze-adam/)
 [Simmer](https://simmer.io/@SpaceChuck/taze-adam)
 
+[MakeCode Arcade](https://makecode.com/_PpwPU0VWuiLa)
+
 <iframe src=“https://i.simmer.io/@SpaceChuck/taze-adam” style=“width:1024px;height:720px;border:0”></iframe>
 
