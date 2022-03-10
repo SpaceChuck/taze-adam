@@ -32,7 +32,9 @@ Taze adam is a platformer. It has excellent soundtrack. But it’s a “little�
 
 [MakeCode Arcade](https://makecode.com/_PpwPU0VWuiLa)
 
-<iframe src=“https://i.simmer.io/@SpaceChuck/taze-adam” style=“width:1024px;height:720px;border:0”></iframe>
+## Speedrun
+
+Speedrun Taze Adam at (https://www.speedrun.com/taze_adam)
 
 # Türkçe websitesini mi arıyorsunuz?
 Türkçe websitesi artık [burada](https://spacechuck.github.io/taze-adam/indextr)
