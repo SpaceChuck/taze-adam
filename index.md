@@ -34,7 +34,7 @@ Taze adam is a platformer. It has excellent soundtrack. But it’s a “little�
 
 ## Speedrun
 
-Speedrun Taze Adam at (https://www.speedrun.com/taze_adam)
+Speedrun Taze Adam at: https://www.speedrun.com/taze_adam
 
 # Türkçe websitesini mi arıyorsunuz?
 Türkçe websitesi artık [burada](https://spacechuck.github.io/taze-adam/indextr)
