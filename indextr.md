@@ -20,6 +20,14 @@ Taze adam bir platform oyunudur. Aşırı iyi müziği vardır. Ama "biraz" zord
 
 ## Taze Adam Oyna
 
+### 2.0
+[Windows (64-bit)](https://www.mediafire.com/file/hhj3m4hd70emg1t/TazeAdamWndows64.zip/file)
+[Mac OS X](https://www.mediafire.com/file/e1mxz3hgalm329s/TazeAdamMacOS.zip/file)
+[Linux](https://www.mediafire.com/file/6jx9txppk25s8vq/TazeAdamLinux.zip/file)
+
+[Android](https://www.mediafire.com/file/isl0uwsk4ta823c/AndroidAdam.apk/file)
+
+### Klasik
 [Windows (64-bit)](https://github.com/SpaceChuck/taze-adam/raw/gh-pages/TazeAdamWindowsx86_64.zip)
 [Windows (32-bit)](https://github.com/SpaceChuck/taze-adam/raw/gh-pages/TazeAdamWindowsx86.zip)
 [Mac OS X](https://github.com/SpaceChuck/taze-adam/raw/gh-pages/TazeAdamMacOSX.zip)
@@ -30,6 +38,7 @@ Taze adam bir platform oyunudur. Aşırı iyi müziği vardır. Ama "biraz" zord
 [WebGL](https://spacechuck.github.io/play-taze-adam/)
 [Simmer](https://simmer.io/@SpaceChuck/taze-adam)
 
+### Diğer
 [MakeCode Arcade](https://makecode.com/_PpwPU0VWuiLa)
 
 ## Speedrun
