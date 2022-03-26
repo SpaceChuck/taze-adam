@@ -1,4 +1,4 @@
 # What devine are you using?
 [PC](tazeadam.md)
 
-[Mobile](tazeadammobile.md)
+[Mobile](https://spacechuck.github.io/play-taze-adam-mobile)
