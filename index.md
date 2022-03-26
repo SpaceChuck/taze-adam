@@ -35,7 +35,7 @@ Taze adam is a platformer. It has excellent soundtrack. But it’s a “little�
 
 [Android](https://github.com/SpaceChuck/taze-adam/raw/gh-pages/AndroidAdam.apk)
 
-[WebGL](https://spacechuck.github.io/play-taze-adam/)
+[WebGL](play/tazeadam.md)
 [Simmer](https://simmer.io/@SpaceChuck/taze-adam)
 
 ### Other
