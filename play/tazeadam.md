@@ -1,4 +1,4 @@
 # What device are you using?
-[PC](playtazeadam.md)
+[PC](playtazeadam.html)
 
 [Mobile](https://spacechuck.github.io/play-taze-adam-mobile)
