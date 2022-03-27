@@ -14,6 +14,9 @@ Taze Adam is now in 3D! Download for Windows, Mac, Linux and Android!
 
 [Android](https://www.mediafire.com/file/oo2krmrb16otnuo/AndroidAdam3D.apk/file)
 
+[WebGL](play/playtazeadam3d.md)
+[Simmer](https://simmer.io/@SpaceChuck/taze-adam-3d)
+
 # Taze Adam
 
 Taze adam is a platformer. It has excellent soundtrack. But it’s a “little” hard.
