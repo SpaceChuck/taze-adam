@@ -12,7 +12,8 @@ Taze Adam artık 3D! Mac OS X, Windows, Linux ve Android için indirebilirsiniz.
 [Mac OS X](https://www.mediafire.com/file/8j1kfs05wwa8qn9/Taze_Adam_3D.app.zip/file)
 [Linux](https://www.mediafire.com/file/t441iiytcth33nt/LinuxTazeAdam.zip/file)
 
-[Android](https://www.mediafire.com/file/oo2krmrb16otnuo/AndroidAdam3D.apk/file)
+[Google Play](https://play.google.com/store/apps/details?id=com.SpaceChuck.TAZEADAM3D)
+[Android (APK)](https://www.mediafire.com/file/oo2krmrb16otnuo/AndroidAdam3D.apk/file)
 
 # Taze Adam
 Taze adam bir platform oyunudur. Aşırı iyi müziği vardır. Ama "biraz" zordur.
@@ -33,7 +34,8 @@ Taze adam bir platform oyunudur. Aşırı iyi müziği vardır. Ama "biraz" zord
 [Mac OS X](https://github.com/SpaceChuck/taze-adam/raw/gh-pages/TazeAdamMacOSX.zip)
 [Linux](https://www.mediafire.com/file/opcb419by2k83uf/TazeAdamLinux2D.zip/file)
 
-[Android](https://github.com/SpaceChuck/taze-adam/raw/gh-pages/AndroidAdam.apk)
+[Google Play](https://play.google.com/store/apps/details?id=com.SpaceChuck.tazeadam)
+[Android (APK)](https://github.com/SpaceChuck/taze-adam/raw/gh-pages/AndroidAdam.apk)
 
 [WebGL](https://spacechuck.github.io/play-taze-adam/)
 [Simmer](https://simmer.io/@SpaceChuck/taze-adam)
