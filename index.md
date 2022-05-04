@@ -7,7 +7,7 @@ The world’s freshest website!
 [Mac OS X](https://www.mediafire.com/file/952sckr3ouumb75/Taze_Adam_%2526KnucklesMac.zip/file)
 [Linux](https://www.mediafire.com/file/952sckr3ouumb75/Taze_Adam_%2526KnucklesMac.zip/file)
 
-[Android](https://www.mediafire.com/file/n6dm8pn60q2wmm1/AndroidAdamAndKnuckles.apk/file)
+[Android (APK)](https://www.mediafire.com/file/n6dm8pn60q2wmm1/AndroidAdamAndKnuckles.apk/file)
 
 # Taze Adam 3D
 
