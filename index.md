@@ -19,11 +19,13 @@ Taze Adam is now in 3D! Download for Windows, Mac, Linux and Android!
 [Mac OS X](https://www.mediafire.com/file/8j1kfs05wwa8qn9/Taze_Adam_3D.app.zip/file)
 [Linux](https://www.mediafire.com/file/t441iiytcth33nt/LinuxTazeAdam.zip/file)
 
-[Google Play](https://play.google.com/store/apps/details?id=com.SpaceChuck.TAZEADAM3D)
-[Android (APK)](https://www.mediafire.com/file/oo2krmrb16otnuo/AndroidAdam3D.apk/file)
-
-[WebGL](play/playtazeadam3d.md)
+[Web](play/playtazeadam3d.md)
 [Simmer](https://simmer.io/@SpaceChuck/taze-adam-3d)
+
+[![Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.SpaceChuck.TAZEADAM3D)
+
+### Other
+[Android (APK)](https://www.mediafire.com/file/oo2krmrb16otnuo/AndroidAdam3D.apk/file)
 
 # Taze Adam
 
@@ -44,14 +46,17 @@ Taze Adam is a platformer. It has excellent soundtrack. But it’s a “little�
 [Mac OS X](https://github.com/SpaceChuck/taze-adam/raw/gh-pages/TazeAdamMacOSX.zip)
 [Linux](https://www.mediafire.com/file/opcb419by2k83uf/TazeAdamLinux2D.zip/file)
 
-[Google Play](https://play.google.com/store/apps/details?id=com.SpaceChuck.tazeadam)
-[Android (APK)](https://github.com/SpaceChuck/taze-adam/raw/gh-pages/AndroidAdam.apk)
-
-[WebGL](play/tazeadam.md)
+[Web](play/tazeadam.md)
 [Simmer](https://simmer.io/@SpaceChuck/taze-adam)
+
+[![Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.SpaceChuck.tazeadam)
+
+
 
 ### Other
 [MakeCode Arcade](https://makecode.com/_PpwPU0VWuiLa)
+[Android (APK)](https://github.com/SpaceChuck/taze-adam/raw/gh-pages/AndroidAdam.apk)
+
 
 ## Speedrun
 
