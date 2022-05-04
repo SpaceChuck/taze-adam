@@ -65,3 +65,6 @@ Speedrun Taze Adam at: https://www.speedrun.com/taze_adam
 # Türkçe websitesini mi arıyorsunuz?
 Türkçe websitesi artık [burada](https://spacechuck.github.io/taze-adam/indextr)
 
+
+Google Play and the Google Play logo are trademarks of Google LLC.
+
