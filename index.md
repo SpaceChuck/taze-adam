@@ -55,6 +55,7 @@ Taze Adam is a platformer. It has excellent soundtrack. But it’s a “little�
 
 ### Other
 [MakeCode Arcade](https://makecode.com/_PpwPU0VWuiLa)
+
 [Android (APK)](https://github.com/SpaceChuck/taze-adam/raw/gh-pages/AndroidAdam.apk)
 
 
