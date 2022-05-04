@@ -27,7 +27,7 @@ Taze Adam is now in 3D! Download for Windows, Mac, Linux and Android!
 
 # Taze Adam
 
-Taze adam is a platformer. It has excellent soundtrack. But it’s a “little” hard.
+Taze Adam is a platformer. It has excellent soundtrack. But it’s a “little” hard.
 
 ## Play
 
