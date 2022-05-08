@@ -14,6 +14,7 @@ The world’s freshest website!
 Taze Adam is now in 3D! Download for Windows, Mac, Linux and Android!
 
 ## Play
+[Windows (Installer, 64-bit)](https://www.mediafire.com/file/40q8nc4h0exh21l/tazeadam3dsetup.exe/file)
 [Windows (64-bit)](https://www.mediafire.com/file/gt3y9aj2jfq0mpe/TazeAdam3DWindows.zip/file)
 [Windows (32-bit)](https://www.mediafire.com/file/jnr01wnmfchgxcl/TazeAdam3DWindows32.zip/file)
 [Mac OS X](https://www.mediafire.com/file/8qb0vwd629f7e77/TazeAdam3DMacOS.zip/file)
@@ -41,6 +42,7 @@ Taze Adam is a platformer. It has excellent soundtrack. But it’s a “little�
 [Android (APK)](https://www.mediafire.com/file/isl0uwsk4ta823c/AndroidAdam.apk/file)
 
 ### Classic
+[Windows (Installer, 64-bit)](https://github.com/SpaceChuck/taze-adam/raw/gh-pages/tazeadamsetup.exe)
 [Windows (64-bit)](https://github.com/SpaceChuck/taze-adam/raw/gh-pages/TazeAdamWindows.zip)
 [Windows (32-bit)](https://github.com/SpaceChuck/taze-adam/raw/gh-pages/TazeAdamWindows32.zip)
 [Mac OS X](https://github.com/SpaceChuck/taze-adam/raw/gh-pages/TazeAdamMacOS.zip)
