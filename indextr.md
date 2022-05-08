@@ -43,10 +43,10 @@ Taze adam bir platform oyunudur. Aşırı iyi müziği vardır. Ama "biraz" zord
 [Android (APK)](https://www.mediafire.com/file/isl0uwsk4ta823c/AndroidAdam.apk/file)
 
 ### Klasik
-[Windows (64-bit)](https://github.com/SpaceChuck/taze-adam/raw/gh-pages/TazeAdamWindowsx86_64.zip)
-[Windows (32-bit)](https://github.com/SpaceChuck/taze-adam/raw/gh-pages/TazeAdamWindowsx86.zip)
-[Mac OS X](https://github.com/SpaceChuck/taze-adam/raw/gh-pages/TazeAdamMacOSX.zip)
-[Linux](https://www.mediafire.com/file/opcb419by2k83uf/TazeAdamLinux2D.zip/file)
+[Windows (64-bit)](https://github.com/SpaceChuck/taze-adam/raw/gh-pages/TazeAdamWindows.zip)
+[Windows (32-bit)](https://github.com/SpaceChuck/taze-adam/raw/gh-pages/TazeAdamWindows32.zip)
+[Mac OS X](https://github.com/SpaceChuck/taze-adam/raw/gh-pages/TazeAdamMacOS.zip)
+[Linux](https://github.com/SpaceChuck/taze-adam/raw/gh-pages/TazeAdamLinux.zip)
 
 [![Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/tr_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.SpaceChuck.tazeadam)
 
