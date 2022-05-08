@@ -41,10 +41,10 @@ Taze Adam is a platformer. It has excellent soundtrack. But it’s a “little�
 [Android (APK)](https://www.mediafire.com/file/isl0uwsk4ta823c/AndroidAdam.apk/file)
 
 ### Classic
-[Windows (64-bit)](https://github.com/SpaceChuck/taze-adam/raw/gh-pages/TazeAdamWindowsx86_64.zip)
-[Windows (32-bit)](https://github.com/SpaceChuck/taze-adam/raw/gh-pages/TazeAdamWindowsx86.zip)
-[Mac OS X](https://github.com/SpaceChuck/taze-adam/raw/gh-pages/TazeAdamMacOSX.zip)
-[Linux](https://www.mediafire.com/file/opcb419by2k83uf/TazeAdamLinux2D.zip/file)
+[Windows (64-bit)](https://github.com/SpaceChuck/taze-adam/raw/gh-pages/TazeAdamWindows.zip)
+[Windows (32-bit)](https://github.com/SpaceChuck/taze-adam/raw/gh-pages/TazeAdamWindows32.zip)
+[Mac OS X](https://github.com/SpaceChuck/taze-adam/raw/gh-pages/TazeAdamMacOS.zip)
+[Linux](https://github.com/SpaceChuck/taze-adam/raw/gh-pages/TazeAdamLinux.zip)
 
 [Web](play/tazeadam.md)
 [Simmer](https://simmer.io/@SpaceChuck/taze-adam)
