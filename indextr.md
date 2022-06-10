@@ -58,7 +58,7 @@ Taze adam bir platform oyunudur. Aşırı iyi müziği vardır. Ama "biraz" zord
 
 ### Diğer
 
-[MakeCode Arcade](https://makecode.com/_PpwPU0VWuiLa)
+[MakeCode Arcade](https://makecode.com/_d0bbXA0cJJ5Ta)
 
 [Android (APK)](https://github.com/SpaceChuck/taze-adam/raw/gh-pages/AndroidAdam.apk)
 
