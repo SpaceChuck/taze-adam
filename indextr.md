@@ -14,7 +14,6 @@ Dünyanın en taze websitesi!
 Taze Adam artık 3D! Mac OS X, Windows, Linux ve Android için indirebilirsiniz.
 
 ## Taze Adam 3D Oyna
-[Windows (Kurucu, 64-bit)](https://www.mediafire.com/file/40q8nc4h0exh21l/tazeadam3dsetup.exe/file)
 [Windows (64-bit)](https://www.mediafire.com/file/gt3y9aj2jfq0mpe/TazeAdam3DWindows.zip/file)
 [Windows (32-bit)](https://www.mediafire.com/file/jnr01wnmfchgxcl/TazeAdam3DWindows32.zip/file)
 [Mac OS X](https://www.mediafire.com/file/8qb0vwd629f7e77/TazeAdam3DMacOS.zip/file)
@@ -44,11 +43,10 @@ Taze adam bir platform oyunudur. Aşırı iyi müziği vardır. Ama "biraz" zord
 [Android (APK)](https://www.mediafire.com/file/isl0uwsk4ta823c/AndroidAdam.apk/file)
 
 ### Klasik
-[Windows (Kurucu, 64-bit)](https://github.com/SpaceChuck/taze-adam/raw/gh-pages/tazeadamsetup.exe)
-[Windows (64-bit)](https://github.com/SpaceChuck/taze-adam/raw/gh-pages/TazeAdamWindows.zip)
-[Windows (32-bit)](https://github.com/SpaceChuck/taze-adam/raw/gh-pages/TazeAdamWindows32.zip)
-[Mac OS X](https://github.com/SpaceChuck/taze-adam/raw/gh-pages/TazeAdamMacOS.zip)
-[Linux](https://github.com/SpaceChuck/taze-adam/raw/gh-pages/TazeAdamLinux.zip)
+[Windows (64-bit)](https://www.mediafire.com/file/ecooiz7fsd2nxxp/TazeAdamWindowsv1.5.zip/file)
+[Windows (32-bit)](https://www.mediafire.com/file/71cm6kriicvf8qe/TazeAdamWindows32v1.5.zip/file)
+[Mac OS X](https://www.mediafire.com/file/ez9mqncf26rons1/TazeAdammacOSv1.5.zip/file)
+[Linux](https://www.mediafire.com/file/ysvmhrgd1xbh1g6/TazeAdamLinuxv1.5.zip/file)
 
 [![Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/tr_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.SpaceChuck.tazeadam)
 
