@@ -16,6 +16,7 @@ Taze Adam is now in 3D! Download for Windows, Mac, Linux and Android!
 ## Play
 [Windows (Installer, 64-bit)](https://www.mediafire.com/file/ztn2kllxr7aqup0/TazeAdam3DSetupv1.2.exe/file)
 [Windows (Installer, 32-bit)](https://www.mediafire.com/file/41qqjchpkt75jyn/TazeAdam3DSetup32v1.2.exe/file)
+
 [Windows (64-bit)](https://www.mediafire.com/file/gt3y9aj2jfq0mpe/TazeAdam3DWindows.zip/file)
 [Windows (32-bit)](https://www.mediafire.com/file/jnr01wnmfchgxcl/TazeAdam3DWindows32.zip/file)
 [Mac OS X](https://www.mediafire.com/file/8qb0vwd629f7e77/TazeAdam3DMacOS.zip/file)
@@ -35,16 +36,9 @@ Taze Adam is a platformer. It has excellent soundtrack. But it’s a “little�
 
 ## Play
 
-### 2.0
-[Windows (64-bit)](https://www.mediafire.com/file/hhj3m4hd70emg1t/TazeAdamWndows64.zip/file)
-[Mac OS X](https://www.mediafire.com/file/e1mxz3hgalm329s/TazeAdamMacOS.zip/file)
-[Linux](https://www.mediafire.com/file/6jx9txppk25s8vq/TazeAdamLinux.zip/file)
-
-[Android (APK)](https://www.mediafire.com/file/isl0uwsk4ta823c/AndroidAdam.apk/file)
-
-### Classic
 [Windows (Installer, 64-bit)](https://www.mediafire.com/file/gxjpmckvumdkro7/TazeAdamSetupv1.5.exe/file)
 [Windows (Installer, 32-bit)](https://www.mediafire.com/file/kyaml313qf8z2yx/TazeAdamSetup32v1.5.exe/file)
+
 [Windows (64-bit)](https://www.mediafire.com/file/ecooiz7fsd2nxxp/TazeAdamWindowsv1.5.zip/file)
 [Windows (32-bit)](https://www.mediafire.com/file/71cm6kriicvf8qe/TazeAdamWindows32v1.5.zip/file)
 [Mac OS X](https://www.mediafire.com/file/ez9mqncf26rons1/TazeAdammacOSv1.5.zip/file)
@@ -55,13 +49,10 @@ Taze Adam is a platformer. It has excellent soundtrack. But it’s a “little�
 
 [![Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.SpaceChuck.tazeadam)
 
-
-
 ### Other
 [MakeCode Arcade](https://makecode.com/_d0bbXA0cJJ5T)
 
 [Android (APK)](https://github.com/SpaceChuck/taze-adam/raw/gh-pages/AndroidAdam.apk)
-
 
 ## Speedrun
 
