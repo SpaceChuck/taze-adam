@@ -14,6 +14,9 @@ Dünyanın en taze websitesi!
 Taze Adam artık 3D! Mac OS X, Windows, Linux ve Android için indirebilirsiniz.
 
 ## Taze Adam 3D Oyna
+[Windows (Kurucu, 64-bit)](https://www.mediafire.com/file/ztn2kllxr7aqup0/TazeAdam3DSetupv1.2.exe/file)
+[Windows (Kurucu, 32-bit)](https://www.mediafire.com/file/41qqjchpkt75jyn/TazeAdam3DSetup32v1.2.exe/file)
+
 [Windows (64-bit)](https://www.mediafire.com/file/gt3y9aj2jfq0mpe/TazeAdam3DWindows.zip/file)
 [Windows (32-bit)](https://www.mediafire.com/file/jnr01wnmfchgxcl/TazeAdam3DWindows32.zip/file)
 [Mac OS X](https://www.mediafire.com/file/8qb0vwd629f7e77/TazeAdam3DMacOS.zip/file)
@@ -33,23 +36,15 @@ Taze adam bir platform oyunudur. Aşırı iyi müziği vardır. Ama "biraz" zord
 
 
 ## Taze Adam Oyna
+[Windows (Kurucu, 64-bit)](https://www.mediafire.com/file/gxjpmckvumdkro7/TazeAdamSetupv1.5.exe/file)
+[Windows (Kurucu, 32-bit)](https://www.mediafire.com/file/kyaml313qf8z2yx/TazeAdamSetup32v1.5.exe/file)
 
-### 2.0
-[Windows (64-bit)](https://www.mediafire.com/file/hhj3m4hd70emg1t/TazeAdamWndows64.zip/file)
-[Mac OS X](https://www.mediafire.com/file/e1mxz3hgalm329s/TazeAdamMacOS.zip/file)
-[Linux](https://www.mediafire.com/file/6jx9txppk25s8vq/TazeAdamLinux.zip/file)
-
-[Google Play](https://play.google.com/store/apps/details?id=com.SpaceChuck.tazeadam)
-[Android (APK)](https://www.mediafire.com/file/isl0uwsk4ta823c/AndroidAdam.apk/file)
-
-### Klasik
 [Windows (64-bit)](https://www.mediafire.com/file/ecooiz7fsd2nxxp/TazeAdamWindowsv1.5.zip/file)
 [Windows (32-bit)](https://www.mediafire.com/file/71cm6kriicvf8qe/TazeAdamWindows32v1.5.zip/file)
 [Mac OS X](https://www.mediafire.com/file/ez9mqncf26rons1/TazeAdammacOSv1.5.zip/file)
 [Linux](https://www.mediafire.com/file/ysvmhrgd1xbh1g6/TazeAdamLinuxv1.5.zip/file)
 
 [![Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/tr_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.SpaceChuck.tazeadam)
-
 
 [Web](https://spacechuck.github.io/play-taze-adam/)
 [Simmer](https://simmer.io/@SpaceChuck/taze-adam)
