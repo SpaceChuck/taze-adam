@@ -16,7 +16,7 @@ Taze Adam artık 3D! Mac OS X, Windows, Linux ve Android için indirebilirsiniz.
 ## Taze Adam 3D Oyna
 [itch.io'dan indirin](https://spacechuck.itch.io/taze-adam-3d)
 
-[![Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/tr_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.SpaceChuck.TAZEADAM3D)
+[![Google Play](playstoretr.png)](https://play.google.com/store/apps/details?id=com.SpaceChuck.TAZEADAM3D)
 
 ### Diğer
 [Web](play/playtazeadam3d.md)
@@ -29,7 +29,8 @@ Taze adam bir platform oyunudur. Aşırı iyi müziği vardır. Ama "biraz" zord
 ## Taze Adam Oyna
 [itch.io'dan indirin](https://spacechuck.itch.io/taze-adam)
 
-[![Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/tr_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.SpaceChuck.tazeadam)
+[![Google Play](playstoretr.png)](https://play.google.com/store/apps/details?id=com.SpaceChuck.tazeadam)
+[![App Store](appstoretr.png)](https://apps.apple.com/tr/app/taze-adam/id1661545935)
 
 
 ### Diğer
