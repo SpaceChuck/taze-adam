@@ -29,7 +29,8 @@ Taze Adam is a platformer. It has excellent soundtrack. But it’s a “little�
 
 [Download on itch.io](https://spacechuck.itch.io/taze-adam)
 
-[![Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.SpaceChuck.tazeadam)
+[![Google Play](playstore.png)](https://play.google.com/store/apps/details?id=com.SpaceChuck.tazeadam)
+[![App Store](appstore.png)](https://apps.apple.com/us/app/taze-adam/id1661545935)
 
 ### Other
 [Web](play/tazeadam.md)
