@@ -15,7 +15,7 @@ Taze Adam is now in 3D! Download for Windows, Mac, Linux and Android!
 
 ## Play
 [Download on itch.io](https://spacechuck.itch.io/taze-adam-3d)
-[![Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.SpaceChuck.TAZEADAM3D)
+[![Google Play](playstore.png)](https://play.google.com/store/apps/details?id=com.SpaceChuck.TAZEADAM3D)
 
 ### Other
 [Web](play/playtazeadam3d.md)
