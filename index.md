@@ -15,7 +15,9 @@ Taze Adam is now in 3D! Download for Windows, Mac, Linux and Android!
 
 ## Play
 [Download on itch.io](https://spacechuck.itch.io/taze-adam-3d)
+
 [![Google Play](playstore.png)](https://play.google.com/store/apps/details?id=com.SpaceChuck.TAZEADAM3D)
+[![App Store](appstore.png)](https://apps.apple.com/tr/app/taze-adam-3d/id1662214935)
 
 ### Other
 [Web](play/playtazeadam3d.md)
@@ -31,6 +33,7 @@ Taze Adam is a platformer. It has excellent soundtrack. But it’s a “little�
 
 [![Google Play](playstore.png)](https://play.google.com/store/apps/details?id=com.SpaceChuck.tazeadam)
 [![App Store](appstore.png)](https://apps.apple.com/us/app/taze-adam/id1661545935)
+
 
 ### Other
 [Web](play/tazeadam.md)
