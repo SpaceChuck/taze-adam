@@ -17,6 +17,7 @@ Taze Adam artık 3D! Mac OS X, Windows, Linux ve Android için indirebilirsiniz.
 [itch.io'dan indirin](https://spacechuck.itch.io/taze-adam-3d)
 
 [![Google Play](playstoretr.png)](https://play.google.com/store/apps/details?id=com.SpaceChuck.TAZEADAM3D)
+[![App Store](appstoretr.png)](https://apps.apple.com/tr/app/taze-adam-3d/id1662214935)
 
 ### Diğer
 [Web](play/playtazeadam3d.md)
