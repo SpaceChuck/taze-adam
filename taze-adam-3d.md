@@ -1,3 +1,4 @@
+[Back]("index.md")
 # Taze Adam 3D
 
 Taze Adam is now in 3D! Download for Windows, Mac, Linux, Android and iOS!
