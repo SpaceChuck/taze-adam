@@ -1,3 +1,4 @@
+[Back]("index.md")
 ## Taze Adam
 
 Taze Adam is a platformer. It has excellent soundtrack. But it’s a “little” hard.
