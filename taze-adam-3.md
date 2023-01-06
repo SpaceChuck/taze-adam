@@ -1,4 +1,4 @@
-[Back]("index.md")
+[Back]("https://spacechuck.github.io/taze-adam")
 # Taze Adam 3
 
 A beta of Taze Adam 3, the next Taze Adam game. This is an early unfinished beta and may contain bugs.
