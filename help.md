@@ -18,4 +18,3 @@
 
 ### Will you add ads or in-app purchases to Taze Adam games?
 - Taze Adam and Taze Adam 3D will probably not have any ads. However, future games might have ads.
-- I'm not going to add in-app purchases to any Taze Adam games.
