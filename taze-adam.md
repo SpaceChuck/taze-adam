@@ -11,6 +11,14 @@ Uses "Drum" loop from Scratch for the title theme.
 [![Google Play](playstore.png)](https://play.google.com/store/apps/details?id=com.SpaceChuck.tazeadam)
 [![App Store](appstore.png)](https://apps.apple.com/us/app/taze-adam/id1661545935)
 
+## NEW! Skin DLC out now!
+Create your own character with the skin DLC! Download for Windows, Mac, Linux, Android and iOS!
+
+[Windows](https://github.com/SpaceChuck/taze-adam/raw/gh-pages/TazeSkinWindows.exe)
+[macOS](https://youtu.be/dQw4w9WgXcQ)
+[Linux](https://youtu.be/dQw4w9WgXcQ)
+[iOS](https://youtu.be/dQw4w9WgXcQ)
+[Android](https://youtu.be/dQw4w9WgXcQ)
 
 ### Other
 
