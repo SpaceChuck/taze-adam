@@ -5,7 +5,7 @@
 
 ### Where's Taze Adam 2.0?
 - Taze Adam 2.0 has been discontinued. If you still want to get it, then [here's a link to my old Wordpress website](https://spacechuckwastaken.wordpress.com/2022/04/26/taze-adam/)
-- I am planning to add the 3D backgrounds in the v2.0 update.
+- 3D backgrounds have been added in the v2.0 update to Taze Adam.
 
 ### Why is it called "Taze Adam"?
 - Good question. [It's because...](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
@@ -15,6 +15,3 @@
 
 ### Will you ever make builds for PS4, Xbox, Switch, etc.
 - I likely won't be making them because it's expensive and I don't even have any modern consoles.
-
-### Will you add ads or in-app purchases to Taze Adam games?
-- Taze Adam and Taze Adam 3D will probably not have any ads. However, future games might have ads.
