@@ -1,15 +1,11 @@
 ## Taze Adam
 
-Taze Adam is a platformer. It has excellent soundtrack. But it’s a “little” hard.
-
-Uses BayatGames's Free Platform Game Assets (https://assetstore.unity.com/packages/2d/environments/free-platform-game-assets-85838)
-
+Taze Adam is a platformer game with "innovative" sound design, 4 in-game levels and a level editor if you think my level design is garbage.
 Uses "Drum" loop from Scratch for the title theme.
 
 [Download on itch.io](https://spacechuck.itch.io/taze-adam)
 
 [![Google Play](playstore.png)](https://play.google.com/store/apps/details?id=com.SpaceChuck.tazeadam)
-[![App Store](appstore.png)](https://apps.apple.com/us/app/taze-adam/id1661545935)
 
 ### Other
 
