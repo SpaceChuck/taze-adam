@@ -9,6 +9,7 @@ Uses "Drum" loop from Scratch for the title theme.
 [Play online at simmer.io](https://simmer.io/@SpaceChuck/taze-adam)
 
 [![Google Play](playstore.png)](https://play.google.com/store/apps/details?id=com.SpaceChuck.tazeadam)
+[![App Store](appstore.png)](https://apps.apple.com/us/app/taze-adam/id1661545935)
 
 
 ### Other
