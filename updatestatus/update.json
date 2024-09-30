@@ -1,8 +1,7 @@
-{
-  "_comment": "hey what are you doing this is from a future update go away",
-  "version": -1.0,
-  "version_number": 16,
-  "version_desc": "This update does not exist.",
-  "version_descTR": "Bu güncelleme yok.",
-  "version_image": "taze.png"
+{t
+  "version": 2.2,
+  "version_number": 17,
+  "version_desc": "Added trampolines\nAdded object and tile coloring\nAdded new textures\nAdded a new tilemap: Ladders\n... and more!",
+  "version_descTR": "Trambolinler eklendi\nNesne ve karo renklendirmesi eklendi\nYeni dokular eklendi\nYeni ızgara eklendi: Merdivenler\n... ve daha fazlası!",
+  "version_image": "2.2Thumbnail.png"
 }
