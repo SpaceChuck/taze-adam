@@ -1,4 +1,4 @@
-{t
+{
   "version": 2.2,
   "version_number": 17,
   "version_desc": "Added trampolines\nAdded object and tile coloring\nAdded new textures\nAdded a new tilemap: Ladders\n... and more!",
