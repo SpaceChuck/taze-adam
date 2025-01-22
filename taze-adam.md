@@ -6,10 +6,13 @@ Uses "Drum" loop from Scratch for the title theme.
 ### Play
 
 [Download on itch.io](https://spacechuck.itch.io/taze-adam)
+
 [Play online at simmer.io](https://simmer.io/@SpaceChuck/taze-adam)
 
+<!--
 [![Google Play](playstore.png)](https://play.google.com/store/apps/details?id=com.SpaceChuck.tazeadam)
 [![App Store](appstore.png)](https://apps.apple.com/us/app/taze-adam/id1661545935)
+-->
 
 
 ### Other
@@ -21,4 +24,4 @@ Uses "Drum" loop from Scratch for the title theme.
 You can download these at the [TazeArchive](https://drive.google.com/drive/folders/1GYtB-Oh6KGlUK3dcQVMqznJix4svcN61?usp=share_link)
 
 
-Google Play and the Google Play logo are trademarks of Google LLC.
+<!--Google Play and the Google Play logo are trademarks of Google LLC.-->
