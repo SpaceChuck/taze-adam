@@ -266,6 +266,7 @@ body {
 }
 .content h3 {
     text-align: left;
+    padding-left: 10px;
 }
 
 .footer {
