@@ -1,0 +1,274 @@
+.header {
+    padding: 80px; /* some padding */
+    text-align: center; /* center the text */
+    background: #5bca7e; /* green background */
+    color: rgb(0, 0, 0); /* white text color */
+}
+.banner{
+    padding-bottom: 10px;
+    width: 100%;
+    height: auto;
+    background: #5bca7e;
+    text-align: center; /* center the text */
+    color: rgb(0, 0, 0);
+}
+.banner img{
+    width: 100%;
+    height: auto;
+    text-align: center; /* center the text */
+    color: rgb(0, 0, 0);
+}
+.banner h1 img{
+    width: auto;
+    height: auto;
+    text-align: center; /* center the text */
+    color: rgb(0, 0, 0);
+}
+.padding {
+    padding: 40px;
+}
+.seperator {
+    padding: 10px;
+}
+.content {
+    padding: 0px 10px;
+    background: #1abc9c; /* green background */
+    color: rgb(0, 0, 0); /* white text color */
+}
+.content a{
+    color: #fa5c5c;
+}
+/* Increase the font size of the <h1> element */
+.content h1 {
+    text-align: center;
+    font-size: 20px;
+}
+.content p1 {
+    text-align: left;
+    font-size: 16px;
+}
+.content p {
+    text-align: left;
+    padding-left: 10px;
+}
+.content.list {
+    flex-wrap: wrap;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: left; 
+    text-align: center;
+    background: #1abc9c; /* green background */
+    color: rgb(0, 0, 0); /* white text color */
+    
+}
+
+.content .game {
+    display:inline-block;
+    background: rgb(117,117,117);
+    background: linear-gradient(0deg, rgba(117,117,117,1) 35%, rgba(138,138,138,1) 100%); /* Gradient */
+    text-align: center;
+    width: 486px;
+    height: 350px;
+}
+.content .game img{
+    display: block;
+    margin: 0 auto;
+}
+.content .game.alt img{
+    max-width: 100%;
+    width: auto;
+    height: auto;
+    flex: 1 1 auto;
+    object-fit: cover;
+    
+    display: block;
+    margin: 0 auto;
+    float: left;
+}
+.content .game.alt p2{
+    max-width: 100%;
+    width: auto;
+    height: auto;
+    flex: 1 1 auto;
+    object-fit: cover;
+    
+    float: left;
+    text-align: center;
+}
+
+.content .game.alt {
+    max-width: 486px;
+    width: auto;
+    height: auto;
+    flex: 1 1 auto;
+    object-fit: cover;
+
+    display: flex;
+    flex-direction: column;
+    /* width: 100%; */
+}
+
+.content .gameandinfo {
+    background: rgb(117,117,117);
+    background: linear-gradient(0deg, rgba(117,117,117,1) 35%, rgba(138,138,138,1) 100%); /* Gradient */
+    display: flex;
+}
+.content .gameandinfo p1 {
+    width: 90%;
+    padding-left: 10px;
+    text-align: left;
+    font-size: 20px;
+}
+/* Increase the font size of the <h1> element */
+.header h1 {
+    font-size: 45px;
+}
+.header h3 {
+    font-weight: normal;
+}
+
+/* Increase the font size of the <h1> element */
+.banner h1 {
+    font-size: 40px;
+}
+.banner h3 {
+    font-weight: normal;
+}
+body {
+    font-family: "Mochiy Pop P One", serif;
+    font-weight: 400;
+    font-style: normal;
+    background-image: url("/assets/BlueBackground.png");
+    background-color: #3e9260;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+/* Style the top navigation bar */
+.navbar {
+    overflow: hidden; /* Hide overflow */
+    background: rgb(117,117,117);
+    background: linear-gradient(0deg, rgba(117,117,117,1) 35%, rgba(138,138,138,1) 100%); /* Gradient */
+    /* height: 49; */
+    position: fixed;
+    top: 1%;
+    width: 98.925%;
+    height: 70px;
+}
+.logo {
+    height: 49;
+}
+  
+/* Style the navigation bar links */
+.navbar a {
+    float: left; /* Make sure that the links stay side-by-side */
+    display: block; /* Change the display to block, for responsive reasons (see below) */
+    color: white; /* White text color */
+    text-align: center; /* Center the text */
+    line-height: 45px;
+    padding: 14px 20px; /* Add some padding */
+    text-decoration: none; /* Remove underline */
+}
+.navbar a {
+    float: left; /* Make sure that the links stay side-by-side */
+    display: block; /* Change the display to block, for responsive reasons (see below) */
+    color: white; /* White text color */
+    text-align: center; /* Center the text */
+    line-height: 45px;
+    padding: 14px 20px; /* Add some padding */
+    text-decoration: none; /* Remove underline */
+}
+  
+/* Right-aligned link */
+.navbar a.right {
+    float: right; /* Float a link to the right */
+}
+/* Right-aligned  */
+.navbar .right {
+    display: block; /* Change the display to block, for responsive reasons (see below) */
+    color: white; /* White text color */
+    text-align: center; /* Center the text */
+    line-height: 45px;
+    padding: 14px 20px; /* Add some padding */
+    text-decoration: none; /* Remove underline */
+    float: right; /* Float a link to the right */
+}
+  
+/* Change color on hover/mouse-over */
+.navbar a:hover {
+    background-color: #ddd; /* Grey background color */
+    color: black; /* Black text color */
+    height: 70px;
+}
+.navbar a.active {
+    height: 70px;
+    background-color: #9e9e9e; /* Grey background color */
+    color: black; /* Black text color */
+}
+.socials {
+    padding: 10px 0px;
+    height: 24;
+    float: right;
+    display: flex;
+    flex-direction: column;
+}
+.socials.list {
+    height: 24;
+    float: right;
+    display: flex;
+    flex-direction: row;
+}
+.socials a {
+    float: left; /* Make sure that the links stay side-by-side */
+    display: block; /* Change the display to block, for responsive reasons (see below) */
+    color: white; /* White text color */
+    text-align: center; /* Center the text */
+    line-height: 24px;
+    padding: 0px 1px; /* Add some padding */
+    text-decoration: none; /* Remove underline */
+}
+.socials .empty {
+    float: left; /* Make sure that the links stay side-by-side */
+    display: block; /* Change the display to block, for responsive reasons (see below) */
+    color: white; /* White text color */
+    text-align: center; /* Center the text */
+    line-height: 24px;
+    padding: 0px 6px; /* Add some padding */
+    text-decoration: none; /* Remove underline */
+}
+
+.socials.label {
+    padding: 12px;
+    text-align: right;
+    color: white;
+    height: 45;
+}
+.button {
+    background: rgb(117,117,117);
+    background: linear-gradient(0deg, rgba(117,117,117,1) 35%, rgba(138,138,138,1) 100%); /* Gradient */
+}
+.button a {
+    color: black;
+    text-decoration: none; /* Remove underline */
+}
+.content h1 {
+    font-size: 30px;
+    text-align: center;
+}
+.content h2 {
+    font-size: 25px;
+    padding-left: 10px;
+    text-align: left;
+}
+.content ul {
+    text-align: left;
+}
+.content h3 {
+    text-align: left;
+}
+
+.footer {
+    padding: 40px; /* Some padding */
+    text-align: center; /* Center text*/
+}
