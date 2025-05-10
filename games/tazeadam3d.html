@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <base href="https://spacechuck.github.io/taze-adam/" target="_blank">
-    
-    <link rel="stylesheet" href="https://spacechuck.github.io/taze-adam/styles.css">
+    <base target="_self">
+    <script src="/scripts/shared.js"></script>
+    <link rel="stylesheet" href="/styles.css">
     <title>Taze Adam - Games - Taze Adam 3D</title>
-    <link rel="icon" type="image/x-icon" href="https://spacechuck.github.io/taze-adam/assets/favicon.ico">
+    <link rel="icon" type="image/x-icon" href="/assets/favicon.ico">
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -14,30 +14,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
-    <div class="navbar">
-        <a target="_self" href="https://spacechuck.github.io/taze-adam/"><img src="https://spacechuck.github.io/taze-adam/assets/TazeAdamLogo.png" alt="Taze Adam"></a>
-        <a target="_self" href="https://spacechuck.github.io/taze-adam/games" class="active">Games</a>
-        <a target="_self" href="https://spacechuck.github.io/taze-adam/news">News</a>
-        <a target="_self" href="https://spacechuck.github.io/taze-adam/other">Other</a>
-        <div class="socials">
-            <div class="list">
-                <a href="https://www.youtube.com/@SpaceChuck1"><img src="https://spacechuck.github.io/taze-adam/assets/youtube_social_icon_red.png" alt="YouTube channel (SpaceChuck)"></a>
-                <a href="https://spacechucksblog.blogspot.com"><img src="https://spacechuck.github.io/taze-adam/assets/Blogger.png" alt="Blogger"></a>
-                <div class="empty"></div>
-            </div>
-            <div class="list">
-                <a href="https://www.youtube.com/channel/UC9NUKHECx8OL7h4uRd5jnZg" class="link"><img src="https://spacechuck.github.io/taze-adam/assets/youtube_social_icon_red.png" alt="YouTube channel (Taze Adam)"></a>
-            </div>
-        </div>
-        <div class="socials label">Follow SpaceChuck on:<br>
-            and Taze Adam on:
-        </div>
-    </div>
+    <games-navbar></games-navbar>
 
     <div class="padding"></div>
     <div class="banner">
-        <img src="https://spacechuck.github.io/taze-adam/assets/tazeadam3d/banner.png"></img>
-        <h1><img src="https://spacechuck.github.io/taze-adam/assets/TazeAdam3DLogoLarge.png"></img></h1>
+        <img src="/assets/tazeadam3d/banner.png"></img>
+        <h1><img src="/assets/TazeAdam3DLogoLarge.png"></img></h1>
         <h3>The freshness in 3D!</h3>
     </div>
     <div class="seperator"></div>
@@ -50,21 +32,20 @@
             </div>
             
             <div class="list" style="align-items:right">
-                <img src="https://spacechuck.github.io/taze-adam/assets/tazeadam3d/screenshots/ss1.png" style="float:right">
-                <img src="https://spacechuck.github.io/taze-adam/assets/tazeadam3d/screenshots/ss2.png" style="float:right">
-                <img src="https://spacechuck.github.io/taze-adam/assets/tazeadam3d/screenshots/ss3.png" style="float:right">
+                <iframe style="float:right" width="350" height="200" src="https://www.youtube-nocookie.com/embed/cTJCc_K2ddk?si=CLiysatVhTuwsLg_" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                <a href="/assets/tazeadam3d/screenshots/ss1.png"><img width="350" height="186" src="/assets/tazeadam3d/screenshots/ss1tb.jpeg" style="float:right"></a>
+                <a href="/assets/tazeadam3d/screenshots/ss2.png"><img width="350" height="186" src="/assets/tazeadam3d/screenshots/ss2tb.jpeg" style="float:right"></a>
+                <a href="/assets/tazeadam3d/screenshots/ss3.png"><img width="350" height="186" src="/assets/tazeadam3d/screenshots/ss3tb.jpeg" style="float:right"></a>
             </div>
         </div>
-        <h2>Downloads:</h2>
-        <a href="https://spacechuck.itch.io/taze-adam-3d" class="link"><img src="https://spacechuck.github.io/taze-adam/assets/itchbadge.png" alt="Play in your browser (simmer.io)"></a>
+        <h2>Play:</h2>
+        <a href="https://spacechuck.itch.io/taze-adam-3d" class="link"><img src="/assets/itchbadge.png" alt="Play in your browser (simmer.io)"></a>
         <!-- 
-        <a href="https://simmer.io/@SpaceChuck/taze-adam-3d" class="link"><img src="https://spacechuck.github.io/taze-adam/assets/simmerbadge.png" alt="Play in your browser (simmer.io)"></a> 
+        <a href="https://simmer.io/@SpaceChuck/taze-adam-3d" class="link"><img src="/assets/simmerbadge.png" alt="Play in your browser (simmer.io)"></a> 
         R.I.P. simmer.io
         -->
     </div>
 
-    <div class="footer">
-        <a href="https://spacechuck.github.io/"><img src="https://spacechuck.github.io/taze-adam/assets/SpaceChuckLogo.png"></img></a>
-    </div>
+    <main-footer></main-footer>
 </body>
 </html>

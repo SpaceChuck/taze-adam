@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <base href="https://spacechuck.github.io/taze-adam/" target="_blank">
-    
-    <link rel="stylesheet" href="https://spacechuck.github.io/taze-adam/styles.css">
+    <base target="_self">
+    <script src="/scripts/shared.js"></script>
+    <link rel="stylesheet" href="/styles.css">
     <title>Taze Adam - News - 1.7 Update</title>
-    <link rel="icon" type="image/x-icon" href="https://spacechuck.github.io/taze-adam/assets/favicon.ico">
+    <link rel="icon" type="image/x-icon" href="/assets/favicon.ico">
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -14,25 +14,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
-    <div class="navbar">
-        <a target="_self" href="https://spacechuck.github.io/taze-adam/"><img src="https://spacechuck.github.io/taze-adam/assets/TazeAdamLogo.png" alt="Taze Adam"></a>
-        <a target="_self" href="https://spacechuck.github.io/taze-adam/games">Games</a>
-        <a target="_self" href="https://spacechuck.github.io/taze-adam/news" class="active">News</a>
-        <a target="_self" href="https://spacechuck.github.io/taze-adam/other">Other</a>
-        <div class="socials">
-            <div class="list">
-                <a href="https://www.youtube.com/@SpaceChuck1"><img src="https://spacechuck.github.io/taze-adam/assets/youtube_social_icon_red.png" alt="YouTube channel (SpaceChuck)"></a>
-                <a href="https://spacechucksblog.blogspot.com"><img src="https://spacechuck.github.io/taze-adam/assets/Blogger.png" alt="Blogger"></a>
-                <div class="empty"></div>
-            </div>
-            <div class="list">
-                <a href="https://www.youtube.com/channel/UC9NUKHECx8OL7h4uRd5jnZg" class="link"><img src="https://spacechuck.github.io/taze-adam/assets/youtube_social_icon_red.png" alt="YouTube channel (Taze Adam)"></a>
-            </div>
-        </div>
-        <div class="socials label">Follow SpaceChuck on:<br>
-            and Taze Adam on:
-        </div>
-    </div>
+    <news-navbar></news-navbar>
+
     <div class="padding"></div>
     <div class="content", style="text-align: center;padding: 0px 0px;">
     <h1>1.7 Update</h1>
@@ -40,12 +23,10 @@
 <p>-Finish flags</p>
 <p>-New bonus level</p>
 <p>-Fixed windowed mode</p>
-        Publish date: 07 December 2022
+<b>Publish date: 07 December 2022</b>
         <div class="padding" style="padding: 5px;"></div>
     </div>
 
-    <div class="footer">
-        <a href="https://spacechuck.github.io/"><img src="https://spacechuck.github.io/taze-adam/assets/SpaceChuckLogo.png"></img></a>
-    </div>
+    <main-footer></main-footer>
 </body>
 </html>

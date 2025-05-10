@@ -156,6 +156,7 @@ body {
     width: 98.925%;
     height: 70px;
 }
+
 .logo {
     height: 49;
 }
@@ -272,4 +273,7 @@ body {
 .footer {
     padding: 40px; /* Some padding */
     text-align: center; /* Center text*/
+}
+.footer a{
+    color: #fa5c5c;
 }
