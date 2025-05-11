@@ -1,0 +1,93 @@
+class Header extends HTMLElement {
+    connectedCallback() {
+      this.innerHTML = `
+        <div class="navbar">
+    <a target="_self" href="/taze-adam/tr/index.html"><img src="/taze-adam/assets/TazeAdamLogo.png" alt="Taze Adam"></a>
+    <a target="_self" href="/taze-adam/tr/games">Oyunlar</a>
+    <a target="_self" href="/taze-adam/tr/news">Haberler</a>
+    <a target="_self" href="/taze-adam/tr/other">Diğer</a>
+    <div class="socials label">SpaceChuck'ı takip edin: <br>
+        <div class="list">
+            <a href="https://www.youtube.com/@TazeAdamTR"><img src="/taze-adam/assets/youtube_social_icon_red.png" alt="YouTube channel (SpaceChuck)"></a>
+            <a href="https://spacechucksblog.blogspot.com"><img src="/taze-adam/assets/Blogger.png" alt="Blogger"></a>
+            <div class="empty"></div>
+        </div>
+    </div>
+</div>
+      `;
+    }
+  }
+class Footer extends HTMLElement {
+    connectedCallback() {
+      this.innerHTML = `    
+        <div class="footer">
+            <a href="https://spacechuck.github.io/"><img src="/taze-adam/assets/SpaceChuckLogo.png"></img></a><br>
+            <a href="/taze-adam/">English</a>
+            <span style="color:#fa5c5c">T&#252;rk&#231;e</span>
+        </div>    
+      `;
+    }
+}
+class HeaderGames extends HTMLElement {
+    connectedCallback() {
+      this.innerHTML = `
+        <div class="navbar">
+    <a target="_self" href="/taze-adam/tr/index.html"><img src="/taze-adam/assets/TazeAdamLogo.png" alt="Taze Adam"></a>
+    <a target="_self" href="/taze-adam/tr/games" class="active">Oyunlar</a>
+    <a target="_self" href="/taze-adam/tr/news">Haberler</a>
+    <a target="_self" href="/taze-adam/tr/other">Diğer</a>
+    <div class="socials label">SpaceChuck'ı takip edin: <br>
+        <div class="list">
+            <a href="https://www.youtube.com/@TazeAdamTR"><img src="/taze-adam/assets/youtube_social_icon_red.png" alt="YouTube channel (SpaceChuck)"></a>
+            <a href="https://spacechucksblog.blogspot.com"><img src="/taze-adam/assets/Blogger.png" alt="Blogger"></a>
+            <div class="empty"></div>
+        </div>
+    </div>
+</div>
+      `;
+    }
+}
+class HeaderNews extends HTMLElement {
+    connectedCallback() {
+      this.innerHTML = `
+        <div class="navbar">
+    <a target="_self" href="/taze-adam/tr/index.html"><img src="/taze-adam/assets/TazeAdamLogo.png" alt="Taze Adam"></a>
+    <a target="_self" href="/taze-adam/tr/games">Oyunlar</a>
+    <a target="_self" href="/taze-adam/tr/news" class="active">Haberler</a>
+    <a target="_self" href="/taze-adam/tr/other">Diğer</a>
+    <div class="socials label">SpaceChuck'ı takip edin: <br>
+        <div class="list">
+            <a href="https://www.youtube.com/@TazeAdamTR"><img src="/taze-adam/assets/youtube_social_icon_red.png" alt="YouTube channel (SpaceChuck)"></a>
+            <a href="https://spacechucksblog.blogspot.com"><img src="/taze-adam/assets/Blogger.png" alt="Blogger"></a>
+            <div class="empty"></div>
+        </div>
+    </div>
+</div>
+      `;
+    }
+}
+class HeaderOther extends HTMLElement {
+    connectedCallback() {
+      this.innerHTML = `
+        <div class="navbar">
+    <a target="_self" href="/taze-adam/tr/index.html"><img src="/taze-adam/assets/TazeAdamLogo.png" alt="Taze Adam"></a>
+    <a target="_self" href="/taze-adam/tr/games">Oyunlar</a>
+    <a target="_self" href="/taze-adam/tr/news">Haberler</a>
+    <a target="_self" href="/taze-adam/tr/other" class="active">Diğer</a>
+    <div class="socials label">SpaceChuck'ı takip edin: <br>
+        <div class="list">
+            <a href="https://www.youtube.com/@TazeAdamTR"><img src="/taze-adam/assets/youtube_social_icon_red.png" alt="YouTube channel (SpaceChuck)"></a>
+            <a href="https://spacechucksblog.blogspot.com"><img src="/taze-adam/assets/Blogger.png" alt="Blogger"></a>
+            <div class="empty"></div>
+        </div>
+    </div>
+</div>
+      `;
+    }
+}
+customElements.define('home-navbar', Header);
+customElements.define('games-navbar', HeaderGames);
+customElements.define('news-navbar', HeaderNews);
+customElements.define('other-navbar', HeaderOther);
+
+customElements.define('main-footer', Footer);

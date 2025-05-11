@@ -22,8 +22,8 @@ class Footer extends HTMLElement {
       this.innerHTML = `    
         <div class="footer">
             <a href="https://spacechuck.github.io/"><img src="/taze-adam/assets/SpaceChuckLogo.png"></img></a><br>
-            <!-- <span style="color:#fa5c5c">English</span>
-            <a href="tr">T&#252;rk&#231;e</a> -->
+            <span style="color:#fa5c5c">English</span>
+            <a href="tr">T&#252;rk&#231;e</a>
         </div>    
       `;
     }
