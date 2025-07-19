@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+ <title>Taze Adam</title>
+ <description>News and updates for Taze Adam games</description>
+ <link>https://spacechuck.github.io/taze-adam/news</link>
+ <copyright>Copyright lololololololol 2025</copyright>
+ <lastBuildDate>Sat Jul 19 20:15:48 +03 2025</lastBuildDate>
+ <pubDate>Sat Jul 19 20:15:48 +03 2025</pubDate>
+ <ttl>1800</ttl>
+
+ <item>
+  <title>Taze Adam's 3rd Anniversary</title>
+  <description>
+  <![CDATA[
+        <p>Taze Adam is now 3 years old!</p>
+        <p>For this very special day, I have a special release for you.</p>
+        <p>Introducing... (drum roll)&nbsp;</p>
+        <p><br></p>
+        <p><br></p>
+        <p>Taze Adam v1.0 for Windows and Linux!</p>
+        <p>The original release of v1.0 only supported macOS and WebGL, and I couldn't just build for Windows and Linux as the project files for this release are gone, but using some super cool magical methods&nbsp;(i literally just copied some files from the macOS build of v1.0 to the Windows and Linux build of v1.1 and it somehow worked) I&nbsp;was able to port this old release to Windows and Linux!</p>
+        <p>So what's so special about this version anyway?</p>
+        <p>Well...</p>
+        <p><br></p>
+        <p><br></p>
+        <p>It's literally the same as v1.1 but it cuts off at the 5th checkpoint of Level 1. That's it. But the anniversary is not a multiple of five so I don't have to do anything special anyway.</p>
+        <p>Anyways, here are the downloads:</p>
+        
+        <h2 id="downloads">Downloads</h2>
+        <p><a href="https://drive.google.com/file/d/1uE3Qr56gL3AqaV-0mhY4VTQ3ooRs40Dx/view?usp=share_link">Windows (64-Bit)</a>
+        <a href="https://drive.google.com/file/d/18_TbJk_QXSW5dKz3OLt4sSty0r0GmjWJ/view?usp=sharing">Windows (32-Bit)</a>
+        <a href="https://drive.google.com/file/d/1-_Q2iMfIcqBz053HK8F8IzxWP05BLKAu/view?usp=sharing">macOS</a>
+        <a href="https://drive.google.com/file/d/1MobRyJWABQ-N4neWCzJrCtoGcIRsaizZ/view?usp=sharing">Linux</a></p>
+    ]]>
+  </description>
+  <link>https://spacechuck.github.io/taze-adam/news/tazeadam/3rdanniversary</link>
+  <guid isPermaLink="false">89584dfe-1126-4dc3-bb14-7b7536e37bef</guid>
+  <pubDate>21 January 2025</pubDate>
+ </item>
+ <item>
+  <title>Taze Adam is now available on the App Store!</title>
+  <description>
+  <![CDATA[
+        <p>The world's freshest game is now available on the App Store!</p>
+        <p>Download now at:&nbsp;<a href="https://apps.apple.com/us/app/taze-adam/id1661545935">https://apps.apple.com/us/app/taze-adam/id1661545935</a><span></span></p>
+        <br>
+        <p>(Note: This announcement is very outdated and the game has since been removed from the App Store. So don't be surprised if the link doesn't work.)</p>
+    ]]>
+  </description>
+  <link>https://spacechuck.github.io/taze-adam/news/tazeadam/3rdanniversary</link>
+  <guid isPermaLink="false">be6329e4-4524-4442-b77a-184bcd8b384f</guid>
+  <pubDate>31 December 2022</pubDate>
+ </item>
+ <item>
+  <title>Taze Adam 2.2 Update</title>
+  <description>
+  <![CDATA[
+       <p>Taze Adam 2.2 has been released on Google Play and itch.io!&nbsp;The game might&trade; also return to the App Store soon.</p>
+    <p><br></p>
+    <p>Here is the changelog:</p>
+        <p>Added trampolines</p>
+    <p>Added object and tile coloring, alongside white tiles<br></p>
+    <p>Added new textures
+        </p>
+    <p>Added Spinning Saws and animations to Water Top&nbsp;and Lava Top tiles (Forgot to write this one in Google Play, oops)</p>
+    <p>Rearranged options menu
+     </p>
+    <p>Added autosave to the editor
+     </p>
+    <p>Added tilemap hiding to the editor
+     </p>
+    <p>Added a placement preview to the editor
+    </p>
+    <p>Added a new tilemap: Ladders
+    </p>
+    <p>- They are tiles that you can jump in, like water
+    </p>
+    <p>Removed account system
+    </p>
+    <p>- It barely worked anyway
+    </p>
+    <p>Added a play mode to custom levels
+    </p>
+    <p>- You can access the editor by pressing the edit button
+     </p>
+    <p>Added update notifications for future updates
+    </p>
+    <p>Added an editor guide
+    </p>
+    <p>Added an option to increase FPS on mobile</p>
+
+    <div class="list" style="align-items:center">
+        <a href="/taze-adam/assets/tazeadam/screenshots/ss1.png"><img width="350" height="200" src="/taze-adam/assets/tazeadam/screenshots/ss1tb.jpeg"></a>
+        <a href="/taze-adam/assets/tazeadam/screenshots/ss2.png"><img width="350" height="200" src="/taze-adam/assets/tazeadam/screenshots/ss2tb.jpeg"></a>
+        <a href="/taze-adam/assets/tazeadam/screenshots/ss3.png"><img width="350" height="200" src="/taze-adam/assets/tazeadam/screenshots/ss3tb.jpeg"></a>
+    </div>
+    ]]>
+  </description>
+  <link>https://spacechuck.github.io/taze-adam/news/tazeadam/2-2-update</link>
+  <guid isPermaLink="false">53a8d9b6-6262-43e1-9e9e-9dd904c3d464</guid>
+  <pubDate>28 September 2024</pubDate>
+ </item>
+
+ <item>
+  <title>Taze Adam 2.2.1 Update</title>
+  <description>
+  <![CDATA[
+       <p>Taze Adam v2.2.1 has been released on Windows, macOS and Linux! Android and WebGL might&trade;&nbsp;be&nbsp;Coming Soon&trade;</p>
+<p>App Store and Google Play releases are Not&nbsp;Coming&trade;</p>
+<p><br></p>
+<p>v2.2.1 also updates the game&nbsp;&nbsp;to Unity 6&nbsp;which means the Made with Unity logo will no longer appear on startup. Unity 6 also increases the system requirements for the game, which means the game will now requires Windows 10 21H1, macOS 11, Ubuntu 22.04/24.04, iOS 13 and&nbsp;Android 6.0. Despite these ridiculous system requirements, the game still runs on Windows 32-Bit somehow. That's good news for all the 15 Windows 10 32-Bit users out there.</p>
+<p>Thanks to Unity 6, this update also features a Windows ARM build. I&nbsp;honestly have no idea if it works or not, I&nbsp;don't have any devices to test it. The installer also isn't supported on Windows ARM.&nbsp;</p>
+<p>I hope this was good enough to make up for the lack of Windows 7 support.</p>
+<p><br></p>
+<p>Here is the update changelog:</p>
+<p>- The level string in the editor is now an Input Field, and can be edited.</p>
+<p>&nbsp; Editing it will change where the level is saved.</p>
+<p>&nbsp; You can also enable "Show Full Level Path" in the options to make this show the full path to the level.</p>
+<p>- Transitions within the menus are now faster, and will not restart the music.</p>
+<p>- The Level Select and Options menus have been redesigned with a new tabbed UI.</p>
+<p>- Added consistent select and highlight colors for all the UI.</p>
+<p>- The editor toggles are now available in the Options menu, in their own "Editor" tab</p>
+<p>- Controller support has (hopefully) been fixed thanks to Unity's new Input System.</p>
+<p>- Menu navigation with arrow keys and controllers has been fixed.</p>
+<p>&nbsp; Pressing PgUp, PgDown/L1,R1 will change the menu tab.</p>
+<p>- Controller tooltips are now more consistent.</p>
+<p>- Added a new loading screen when transitioning between the menu and game.</p>
+<p>- Added launch arguments to the game when launching it from the command-line.</p>
+<p>&nbsp; See&nbsp;<a target="_self" href="/taze-adam/other/tazeadamargs.html">https://spacechuck.github.io/taze-adam/other/tazeadamargs.html</a>&nbsp;for more information.</p>
+
+<div class="list" style="align-items:center">
+    <a href="/taze-adam/assets/news/2-2-1-update/ss1.png"><img width="350" height="196" src="/taze-adam/assets/news/2-2-1-update/ss1tb.jpeg"></a>
+    <a href="/taze-adam/assets/news/2-2-1-update/ss2.png"><img width="350" height="196" src="/taze-adam/assets/news/2-2-1-update/ss2tb.jpeg"></a>
+</div>
+    ]]>
+  </description>
+  <link>https://spacechuck.github.io/taze-adam/news/tazeadam/2-2-1-update</link>
+  <guid isPermaLink="false">0db0d18d-c2ee-44c8-8b8d-049e869cca00</guid>
+  <pubDate>21 January 2025</pubDate>
+ </item>
+
+<item>
+  <title>Taze Adam 1.8 Update</title>
+  <description>
+  <![CDATA[
+        <p>Update 1.8 is out! This update brings:<br></p>
+        <p>- Added saved levels menu</p>
+        <p>- Updated Bonus Level 1<br></p>
+    ]]>
+  </description>
+  <link>https://spacechuck.github.io/taze-adam/news/tazeadam/1-8-update</link>
+  <guid isPermaLink="false">976eb28a-e53d-40d3-bcee-09e2995215bf</guid>
+  <pubDate>18 December 2022</pubDate>
+ </item>
+ <item>
+  <title>Taze Adam 1.7 Update</title>
+  <description>
+  <![CDATA[
+    <p>New 1.7 update! This update adds:</p>
+    <p>-Finish flags</p>
+    <p>-New bonus level</p>
+    <p>-Fixed windowed mode</p>
+    ]]>
+  </description>
+  <link>https://spacechuck.github.io/taze-adam/news/tazeadam/1-7-update</link>
+  <guid isPermaLink="false">3b060c07-3a04-4706-9d39-6ee52cb64790</guid>
+  <pubDate>07 December 2022</pubDate>
+ </item>
+</channel>
+</rss>

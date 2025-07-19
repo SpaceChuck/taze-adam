@@ -8,8 +8,9 @@ class Header extends HTMLElement {
     <a target="_self" href="/taze-adam/tr/other">Diğer</a>
     <div class="socials label">SpaceChuck'ı takip edin: <br>
         <div class="list">
-            <a href="https://www.youtube.com/@TazeAdamTR"><img src="/taze-adam/assets/youtube_social_icon_red.png" alt="YouTube channel (SpaceChuck)"></a>
+            <a href="https://www.youtube.com/@TazeAdamTR"><img src="/taze-adam/assets/youtube_social_icon_red.png" alt="YouTube kanalı (Taze Adam)"></a>
             <a href="https://spacechucksblog.blogspot.com"><img src="/taze-adam/assets/Blogger.png" alt="Blogger"></a>
+            <a href="rss.xml"><img src="/taze-adam/assets/rssicon.png" alt="RSS"></a>
             <div class="empty"></div>
         </div>
     </div>
@@ -38,8 +39,9 @@ class HeaderGames extends HTMLElement {
     <a target="_self" href="/taze-adam/tr/other">Diğer</a>
     <div class="socials label">SpaceChuck'ı takip edin: <br>
         <div class="list">
-            <a href="https://www.youtube.com/@TazeAdamTR"><img src="/taze-adam/assets/youtube_social_icon_red.png" alt="YouTube channel (SpaceChuck)"></a>
+            <a href="https://www.youtube.com/@TazeAdamTR"><img src="/taze-adam/assets/youtube_social_icon_red.png" alt="YouTube kanalı (Taze Adam)"></a>
             <a href="https://spacechucksblog.blogspot.com"><img src="/taze-adam/assets/Blogger.png" alt="Blogger"></a>
+            <a href="rss.xml"><img src="/taze-adam/assets/rssicon.png" alt="RSS"></a>
             <div class="empty"></div>
         </div>
     </div>
@@ -57,8 +59,9 @@ class HeaderNews extends HTMLElement {
     <a target="_self" href="/taze-adam/tr/other">Diğer</a>
     <div class="socials label">SpaceChuck'ı takip edin: <br>
         <div class="list">
-            <a href="https://www.youtube.com/@TazeAdamTR"><img src="/taze-adam/assets/youtube_social_icon_red.png" alt="YouTube channel (SpaceChuck)"></a>
+            <a href="https://www.youtube.com/@TazeAdamTR"><img src="/taze-adam/assets/youtube_social_icon_red.png" alt="YouTube kanalı (Taze Adam)"></a>
             <a href="https://spacechucksblog.blogspot.com"><img src="/taze-adam/assets/Blogger.png" alt="Blogger"></a>
+            <a href="rss.xml"><img src="/taze-adam/assets/rssicon.png" alt="RSS"></a>
             <div class="empty"></div>
         </div>
     </div>
@@ -76,8 +79,9 @@ class HeaderOther extends HTMLElement {
     <a target="_self" href="/taze-adam/tr/other" class="active">Diğer</a>
     <div class="socials label">SpaceChuck'ı takip edin: <br>
         <div class="list">
-            <a href="https://www.youtube.com/@TazeAdamTR"><img src="/taze-adam/assets/youtube_social_icon_red.png" alt="YouTube channel (SpaceChuck)"></a>
+            <a href="https://www.youtube.com/@TazeAdamTR"><img src="/taze-adam/assets/youtube_social_icon_red.png" alt="YouTube kanalı (Taze Adam)"></a>
             <a href="https://spacechucksblog.blogspot.com"><img src="/taze-adam/assets/Blogger.png" alt="Blogger"></a>
+            <a href="rss.xml"><img src="/taze-adam/assets/rssicon.png" alt="RSS"></a>
             <div class="empty"></div>
         </div>
     </div>
