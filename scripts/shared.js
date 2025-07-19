@@ -10,7 +10,7 @@ class Header extends HTMLElement {
         <div class="list">
             <a href="https://www.youtube.com/@SpaceChuck1"><img src="/taze-adam/assets/youtube_social_icon_red.png" alt="YouTube channel (SpaceChuck)"></a>
             <a href="https://spacechucksblog.blogspot.com"><img src="/taze-adam/assets/Blogger.png" alt="Blogger"></a>
-            <a href="rss.xml"><img src="/taze-adam/assets/rssicon.png" alt="RSS Feed"></a>
+            <a type="application/rss+xml" href="rss.xml"><img src="/taze-adam/assets/rssicon.png" alt="RSS Feed"></a>
             <div class="empty"></div>
         </div>
     </div>
@@ -41,7 +41,7 @@ class HeaderGames extends HTMLElement {
         <div class="list">
             <a href="https://www.youtube.com/@SpaceChuck1"><img src="/taze-adam/assets/youtube_social_icon_red.png" alt="YouTube channel (SpaceChuck)"></a>
             <a href="https://spacechucksblog.blogspot.com"><img src="/taze-adam/assets/Blogger.png" alt="Blogger"></a>
-            <a href="rss.xml"><img src="/taze-adam/assets/rssicon.png" alt="RSS Feed"></a>
+            <a type="application/rss+xml" href="rss.xml"><img src="/taze-adam/assets/rssicon.png" alt="RSS Feed"></a>
             <div class="empty"></div>
         </div>
     </div>
@@ -61,7 +61,7 @@ class HeaderNews extends HTMLElement {
         <div class="list">
             <a href="https://www.youtube.com/@SpaceChuck1"><img src="/taze-adam/assets/youtube_social_icon_red.png" alt="YouTube channel (SpaceChuck)"></a>
             <a href="https://spacechucksblog.blogspot.com"><img src="/taze-adam/assets/Blogger.png" alt="Blogger"></a>
-            <a href="rss.xml"><img src="/taze-adam/assets/rssicon.png" alt="RSS Feed"></a>
+            <a type="application/rss+xml" href="rss.xml"><img src="/taze-adam/assets/rssicon.png" alt="RSS Feed"></a>
             <div class="empty"></div>
         </div>
     </div>
@@ -81,7 +81,7 @@ class HeaderOther extends HTMLElement {
         <div class="list">
             <a href="https://www.youtube.com/@SpaceChuck1"><img src="/taze-adam/assets/youtube_social_icon_red.png" alt="YouTube channel (SpaceChuck)"></a>
             <a href="https://spacechucksblog.blogspot.com"><img src="/taze-adam/assets/Blogger.png" alt="Blogger"></a>
-            <a href="rss.xml"><img src="/taze-adam/assets/rssicon.png" alt="RSS Feed"></a>
+            <a type="application/rss+xml" href="rss.xml"><img src="/taze-adam/assets/rssicon.png" alt="RSS Feed"></a>
             <div class="empty"></div>
         </div>
     </div>
