@@ -1,0 +1,8 @@
+{
+    "Games": [
+        {"Name":"Taze Adam","GameID":0,"DownloadURL":"https://spacechuck.github.io/taze-adam/games/tazeadam.html"},
+        {"Name":"Taze Adam 3D","GameID":1,"DownloadURL":"https://spacechuck.github.io/taze-adam/games/tazeadam3d.html"},
+        {"Name":"Taze Adam 3","GameID":2,"DownloadURL":"https://spacechuck.github.io/taze-adam/games/tazeadam3.html"},
+        {"Name":"The World's Most Annoying Game","GameID":3,"DownloadURL":"https://spacechuck.github.io/taze-adam/games/annoying.html"},
+    ]
+}
