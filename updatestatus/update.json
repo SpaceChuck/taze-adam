@@ -1,7 +1,16 @@
 {
-  "version": 2.21,
-  "version_number": 18,
-  "version_desc": "Added new UI for Level Select and Options\nFixed controller support\nMade menu transitions faster\n...and more!",
-  "version_descTR": "Seviye Seçim ve Ayarlar'a yeni arayüz\nKumanda desteği eklendi\nMenü geçişleri daha hızlı yapıldı\n...ve daha fazlası!\n",
-  "version_image": "2.2.1Thumbnail.png"
+    "version": 2.22,
+    "version_desc": "- Added Level Repositories\n- Updated the UI (the trees no longer float)\n- Changed the format of saved levels\n...and more!",
+    "version_descTR": "- Seviye Sunucuları eklendi\n- Arayüz güncellendi (ağaçlar artık uçmuyor)\n- Kaydedilen seviyelerin formatı değiştirildi\n...ve daha fazlası!\n",
+    "version_image": "2.2.2Thumbnail.jpg",
+
+    "version_new": "2.2.2",
+    "version_number": 19,
+    "version_image_url": "https://spacechuck.github.io/taze-adam/updatestatus/2.2.2Thumbnail.jpg",
+    "version_descs": [
+        {"ISOCode":"en", "Content": "- Added Level Repositories\n- Updated the UI (the trees no longer float)\n- Changed the format of saved levels\n...and more!"},
+        {"ISOCode":"tr", "Content": "- Seviye Sunucuları eklendi\n- Arayüz güncellendi (ağaçlar artık uçmuyor)\n- Kaydedilen seviyelerin formatı değiştirildi\n...ve daha fazlası!\n"}
+    ],
+    "version_desc_fallback": {"ISOCode":"en", "Content": "- Added Level Repositories\n- Updated the UI (the trees no longer float)\n- Changed the format of saved levels\n...and more!"},
+    "download_url": "https://spacechuck.itch.io/taze-adam"
 }
