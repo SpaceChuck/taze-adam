@@ -7,36 +7,34 @@
  <lastBuildDate>Sat Jul 19 20:15:48 +03 2025</lastBuildDate>
  <pubDate>Sat Jul 19 20:15:48 +03 2025</pubDate>
  <ttl>1800</ttl>
-
  <item>
   <title>Taze Adam 2.2.2 Güncellemesi</title>
   <description>
   <![CDATA[
-<p>Taze Adam v2.2.2 çıktı!</p>
-<p>Bu güncelleme Seviye Sunucularını ekliyor. Seviye Sunucuları seviyeleri başka oyuncularla paylaşmanın bir yöntemi. Nasıl yapılacağını öğrenmek için,&nbsp;<a href="https://github.com/SpaceChuck/taze-adam-level-repo-example">bu GitHub reposuna</a> bakın.</p>
-<p>Güncellemede değişenler:</p>
-<p>- Seviye Sunucuları eklendi</p>
-<p>- Arayüz güncellendi (ağaçlar artık uçmuyor)</p>
-<p>- Taze Adam logosu güncellendi</p>
-<p>- Kaydedilen seviyelerin formatı değiştirildi</p>
-<p>&nbsp; Bu aynı zamanda döndürülmüş trampolinlerin kaydedilmesini düzeltiyor</p>
-<p>&nbsp; Yazarın adını seviye adının altında gösteriyorlar ve bu ayarlarda değiştirilebiliyor</p>
-<p>&nbsp; Eski seviyeler hâlâ çalışıyor ve kaydedilince güncelleniyor</p>
-<p>- Ayarlara arayüz büyüklüğü ayarı eklendi</p>
-<p>- Seviye düzenleyicideki açılır menüler artık çevirildi</p>
-<p>- Dil dosyaları artık StreamingAssets'de ve değiştirilebilir</p>
-<p>- Düzenleyicide hareket için yeni bir fare imleci eklendi</p>
-<p>- Seviye Klasörünü Aç düğmesi artık macOS'de görünüyor ve çalışıyor</p>
-<p>- Müzik ve Ses ayarları için yazı eklendi</p>
-<p>- Daha Fazla Oyun menüsü artık Taze Adam websitesinde yükleniyor ve her zaman güncel</p>
-<p>- İyileştirilmiş güncelleme menüsü</p>
+  <p>Taze Adam v2.2.2 çıktı!</p>
+  <p>Bu güncelleme Seviye Sunucularını ekliyor. Seviye Sunucuları seviyeleri başka oyuncularla paylaşmanın bir yöntemi. Nasıl yapılacağını öğrenmek için,&nbsp;<a href="https://github.com/SpaceChuck/taze-adam-level-repo-example">bu GitHub reposuna</a> bakın.</p>
+  <p>Güncellemede değişenler:</p>
+  <p>- Seviye Sunucuları eklendi</p>
+  <p>- Arayüz güncellendi (ağaçlar artık uçmuyor)</p>
+  <p>- Taze Adam logosu güncellendi</p>
+  <p>- Kaydedilen seviyelerin formatı değiştirildi</p>
+  <p>&nbsp; Bu aynı zamanda döndürülmüş trampolinlerin kaydedilmesini düzeltiyor</p>
+  <p>&nbsp; Yazarın adını seviye adının altında gösteriyorlar ve bu ayarlarda değiştirilebiliyor</p>
+  <p>&nbsp; Eski seviyeler hâlâ çalışıyor ve kaydedilince güncelleniyor</p>
+  <p>- Ayarlara arayüz büyüklüğü ayarı eklendi</p>
+  <p>- Seviye düzenleyicideki açılır menüler artık çevirildi</p>
+  <p>- Dil dosyaları artık StreamingAssets'de ve değiştirilebilir</p> 
+  <p>- Düzenleyicide hareket için yeni bir fare imleci eklendi</p>
+  <p>- Seviye Klasörünü Aç düğmesi artık macOS'de görünüyor ve çalışıyor</p>
+  <p>- Müzik ve Ses ayarları için yazı eklendi</p>
+  <p>- Daha Fazla Oyun menüsü artık Taze Adam websitesinde yükleniyor ve her zaman güncel</p>
+  <p>- İyileştirilmiş güncelleme menüsü</p>
     ]]>
   </description>
   <link>https://spacechuck.github.io/taze-adam/tr/news/tazeadam/2-2-2-update</link>
   <guid isPermaLink="false">db598b93-5bb1-49d1-9937-a1ee2ad48b11f</guid>
   <pubDate>7 Eylül 2025</pubDate>
- </item>
- <item>
+
  <item>
   <title>Taze Adam'ın 3. Yıldönümü</title>
   <description>
@@ -66,7 +64,6 @@
   <guid isPermaLink="false">17ee6501-5fa7-495d-aa46-7f737f8e6b03</guid>
   <pubDate>21 January 2025</pubDate>
  </item>
-
  <item>
   <title>Taze Adam artık App Store'da!</title>
   <description>
