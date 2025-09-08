@@ -1,0 +1,49 @@
+{
+    "Levels": 
+    [
+        {
+            "Path": "Levels/Level1.tzal",
+            "Metadata": {
+            "Name": "Level 1",
+            "Description": "",
+            "Author": "SpaceChuck",
+            "GameVersionNumber": 19,
+            "GameVersion": "2.2.2",
+            "Source": ""
+            }
+        },
+        {
+            "Path": "Levels/Level2.tzal",
+            "Metadata": {
+            "Name": "Level 2",
+            "Description": "",
+            "Author": "SpaceChuck",
+            "GameVersionNumber": 19,
+            "GameVersion": "2.2.2",
+            "Source": ""
+            }
+        },
+        {
+            "Path": "Levels/Level3.tzal",
+            "Metadata": {
+            "Name": "Level 3",
+            "Description": "",
+            "Author": "SpaceChuck",
+            "GameVersionNumber": 19,
+            "GameVersion": "2.2.2",
+            "Source": ""
+            }
+        },
+        {
+            "Path": "Levels/BonusLevel.tzal",
+            "Metadata": {
+            "Name": "Bonus Level",
+            "Description": "",
+            "Author": "",
+            "GameVersionNumber": 19,
+            "GameVersion": "2.2.2",
+            "Source": ""
+            }
+        }
+    ]
+}
