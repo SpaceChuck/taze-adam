@@ -3,6 +3,7 @@ class Header extends HTMLElement {
       this.innerHTML = `
         <div class="navbar">
     <a target="_self" href="/taze-adam/index.html"><img src="/taze-adam/assets/TazeAdamLogo.png" alt="Taze Adam"></a>
+    <a style="color: #fe2323" target="_self" href="https://tazeadam.pages.dev">New website!! I couldn't be bothered to add redirects to like 4,000 pages so click me instead</a>
     <a target="_self" href="/taze-adam/games">Games</a>
     <a target="_self" href="/taze-adam/news">News</a>
     <a target="_self" href="/taze-adam/other">Other</a>
@@ -10,6 +11,8 @@ class Header extends HTMLElement {
         <div class="list">
             <a href="https://www.youtube.com/@SpaceChuck1"><img src="/taze-adam/assets/youtube_social_icon_red.png" alt="YouTube channel (SpaceChuck)"></a>
             <a href="https://spacechucksblog.blogspot.com"><img src="/taze-adam/assets/Blogger.png" alt="Blogger"></a>
+            <a href="https://bsky.app/profile/spacechuck.github.io"><img src="/taze-adam/assets/Bluesky.png" alt="Bluesky"></a>
+            <a href="https://www.instagram.com/spacechuckofficial/"><img src="/taze-adam/assets/Instagram.png" alt="Instagram"></a>
             <a type="application/rss+xml" href="rss.xml"><img src="/taze-adam/assets/rssicon.png" alt="RSS Feed"></a>
             <div class="empty"></div>
         </div>
@@ -34,6 +37,7 @@ class HeaderGames extends HTMLElement {
       this.innerHTML = `
         <div class="navbar">
     <a target="_self" href="/taze-adam/index.html"><img src="/taze-adam/assets/TazeAdamLogo.png" alt="Taze Adam"></a>
+    <a style="color: #fe2323" target="_self" href="https://tazeadam.pages.dev/games">New website!! I couldn't be bothered to add redirects to like 4,000 pages so click me instead</a>
     <a target="_self" href="/taze-adam/games" class="active">Games</a>
     <a target="_self" href="/taze-adam/news">News</a>
     <a target="_self" href="/taze-adam/other">Other</a>
@@ -41,6 +45,8 @@ class HeaderGames extends HTMLElement {
         <div class="list">
             <a href="https://www.youtube.com/@SpaceChuck1"><img src="/taze-adam/assets/youtube_social_icon_red.png" alt="YouTube channel (SpaceChuck)"></a>
             <a href="https://spacechucksblog.blogspot.com"><img src="/taze-adam/assets/Blogger.png" alt="Blogger"></a>
+            <a href="https://bsky.app/profile/spacechuck.github.io"><img src="/taze-adam/assets/Bluesky.png" alt="Bluesky"></a>
+            <a href="https://www.instagram.com/spacechuckofficial/"><img src="/taze-adam/assets/Instagram.png" alt="Instagram"></a>
             <a type="application/rss+xml" href="rss.xml"><img src="/taze-adam/assets/rssicon.png" alt="RSS Feed"></a>
             <div class="empty"></div>
         </div>
@@ -54,6 +60,7 @@ class HeaderNews extends HTMLElement {
       this.innerHTML = `
         <div class="navbar">
     <a target="_self" href="/taze-adam/index.html"><img src="/taze-adam/assets/TazeAdamLogo.png" alt="Taze Adam"></a>
+    <a style="color: #fe2323" target="_self" href="https://tazeadam.pages.dev/news">New website!! I couldn't be bothered to add redirects to like 4,000 pages so click me instead</a>
     <a target="_self" href="/taze-adam/games">Games</a>
     <a target="_self" href="/taze-adam/news" class="active">News</a>
     <a target="_self" href="/taze-adam/other">Other</a>
@@ -61,6 +68,8 @@ class HeaderNews extends HTMLElement {
         <div class="list">
             <a href="https://www.youtube.com/@SpaceChuck1"><img src="/taze-adam/assets/youtube_social_icon_red.png" alt="YouTube channel (SpaceChuck)"></a>
             <a href="https://spacechucksblog.blogspot.com"><img src="/taze-adam/assets/Blogger.png" alt="Blogger"></a>
+            <a href="https://bsky.app/profile/spacechuck.github.io"><img src="/taze-adam/assets/Bluesky.png" alt="Bluesky"></a>
+            <a href="https://www.instagram.com/spacechuckofficial/"><img src="/taze-adam/assets/Instagram.png" alt="Instagram"></a>
             <a type="application/rss+xml" href="rss.xml"><img src="/taze-adam/assets/rssicon.png" alt="RSS Feed"></a>
             <div class="empty"></div>
         </div>
@@ -74,6 +83,7 @@ class HeaderOther extends HTMLElement {
       this.innerHTML = `
         <div class="navbar">
     <a target="_self" href="/taze-adam/index.html"><img src="/taze-adam/assets/TazeAdamLogo.png" alt="Taze Adam"></a>
+    <a style="color: #fe2323" target="_self" href="https://tazeadam.pages.dev/other">New website!! I couldn't be bothered to add redirects to like 4,000 pages so click me instead</a>
     <a target="_self" href="/taze-adam/games">Games</a>
     <a target="_self" href="/taze-adam/news">News</a>
     <a target="_self" href="/taze-adam/other" class="active">Other</a>
@@ -81,6 +91,8 @@ class HeaderOther extends HTMLElement {
         <div class="list">
             <a href="https://www.youtube.com/@SpaceChuck1"><img src="/taze-adam/assets/youtube_social_icon_red.png" alt="YouTube channel (SpaceChuck)"></a>
             <a href="https://spacechucksblog.blogspot.com"><img src="/taze-adam/assets/Blogger.png" alt="Blogger"></a>
+            <a href="https://bsky.app/profile/spacechuck.github.io"><img src="/taze-adam/assets/Bluesky.png" alt="Bluesky"></a>
+            <a href="https://www.instagram.com/spacechuckofficial/"><img src="/taze-adam/assets/Instagram.png" alt="Instagram"></a>
             <a type="application/rss+xml" href="rss.xml"><img src="/taze-adam/assets/rssicon.png" alt="RSS Feed"></a>
             <div class="empty"></div>
         </div>

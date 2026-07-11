@@ -10,6 +10,8 @@ class Header extends HTMLElement {
         <div class="list">
             <a href="https://www.youtube.com/@TazeAdamTR"><img src="/taze-adam/assets/youtube_social_icon_red.png" alt="YouTube kanalı (Taze Adam)"></a>
             <a href="https://spacechucksblog.blogspot.com"><img src="/taze-adam/assets/Blogger.png" alt="Blogger"></a>
+            <a href="https://bsky.app/profile/spacechuck.github.io"><img src="/taze-adam/assets/Bluesky.png" alt="Bluesky"></a>
+            <a href="https://www.instagram.com/spacechuckofficial/"><img src="/taze-adam/assets/Instagram.png" alt="Instagram"></a>
             <a type="application/rss+xml" href="rss.xml"><img src="/taze-adam/assets/rssicon.png" alt="RSS"></a>
             <div class="empty"></div>
         </div>
@@ -41,6 +43,8 @@ class HeaderGames extends HTMLElement {
         <div class="list">
             <a href="https://www.youtube.com/@TazeAdamTR"><img src="/taze-adam/assets/youtube_social_icon_red.png" alt="YouTube kanalı (Taze Adam)"></a>
             <a href="https://spacechucksblog.blogspot.com"><img src="/taze-adam/assets/Blogger.png" alt="Blogger"></a>
+            <a href="https://bsky.app/profile/spacechuck.github.io"><img src="/taze-adam/assets/Bluesky.png" alt="Bluesky"></a>
+            <a href="https://www.instagram.com/spacechuckofficial/"><img src="/taze-adam/assets/Instagram.png" alt="Instagram"></a>
             <a type="application/rss+xml" href="rss.xml"><img src="/taze-adam/assets/rssicon.png" alt="RSS"></a>
             <div class="empty"></div>
         </div>
@@ -61,6 +65,8 @@ class HeaderNews extends HTMLElement {
         <div class="list">
             <a href="https://www.youtube.com/@TazeAdamTR"><img src="/taze-adam/assets/youtube_social_icon_red.png" alt="YouTube kanalı (Taze Adam)"></a>
             <a href="https://spacechucksblog.blogspot.com"><img src="/taze-adam/assets/Blogger.png" alt="Blogger"></a>
+            <a href="https://bsky.app/profile/spacechuck.github.io"><img src="/taze-adam/assets/Bluesky.png" alt="Bluesky"></a>
+            <a href="https://www.instagram.com/spacechuckofficial/"><img src="/taze-adam/assets/Instagram.png" alt="Instagram"></a>
             <a type="application/rss+xml" href="rss.xml"><img src="/taze-adam/assets/rssicon.png" alt="RSS"></a>
             <div class="empty"></div>
         </div>
@@ -81,6 +87,8 @@ class HeaderOther extends HTMLElement {
         <div class="list">
             <a href="https://www.youtube.com/@TazeAdamTR"><img src="/taze-adam/assets/youtube_social_icon_red.png" alt="YouTube kanalı (Taze Adam)"></a>
             <a href="https://spacechucksblog.blogspot.com"><img src="/taze-adam/assets/Blogger.png" alt="Blogger"></a>
+            <a href="https://bsky.app/profile/spacechuck.github.io"><img src="/taze-adam/assets/Bluesky.png" alt="Bluesky"></a>
+            <a href="https://www.instagram.com/spacechuckofficial/"><img src="/taze-adam/assets/Instagram.png" alt="Instagram"></a>
             <a type="application/rss+xml" href="rss.xml"><img src="/taze-adam/assets/rssicon.png" alt="RSS"></a>
             <div class="empty"></div>
         </div>
