@@ -2,6 +2,7 @@ class Header extends HTMLElement {
     connectedCallback() {
       this.innerHTML = `
         <div class="navbar">
+        <a style="color: #fe2323" target="_self" href="https://tazeadam.pages.dev/tr">Yeni website!! Redirectler çok zor</a>
     <a target="_self" href="/taze-adam/tr/index.html"><img src="/taze-adam/assets/TazeAdamLogo.png" alt="Taze Adam"></a>
     <a target="_self" href="/taze-adam/tr/games">Oyunlar</a>
     <a target="_self" href="/taze-adam/tr/news">Haberler</a>
