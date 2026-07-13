@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+ <title>Taze Adam</title>
+ <description>Taze Adam oyunları için haberler ve güncellemeler</description>
+ <link>https://spacechuck.github.io/taze-adam/tr/news</link>
+ <lastBuildDate>Sat Jul 19 20:15:48 +03 2025</lastBuildDate>
+ <pubDate>Sat Jul 19 20:15:48 +03 2025</pubDate>
+ <ttl>1800</ttl>
+ <item>
+  <title>Taze Adam 2.2.2 Güncellemesi</title>
+  <description>
+  <![CDATA[
+  <p>Taze Adam v2.2.2 çıktı!</p>
+  <p>Bu güncelleme Seviye Sunucularını ekliyor. Seviye Sunucuları seviyeleri başka oyuncularla paylaşmanın bir yöntemi. Nasıl yapılacağını öğrenmek için,&nbsp;<a href="https://github.com/SpaceChuck/taze-adam-level-repo-example">bu GitHub reposuna</a> bakın.</p>
+  <p>Güncellemede değişenler:</p>
+  <p>- Seviye Sunucuları eklendi</p>
+  <p>- Arayüz güncellendi (ağaçlar artık uçmuyor)</p>
+  <p>- Taze Adam logosu güncellendi</p>
+  <p>- Kaydedilen seviyelerin formatı değiştirildi</p>
+  <p>&nbsp; Bu aynı zamanda döndürülmüş trampolinlerin kaydedilmesini düzeltiyor</p>
+  <p>&nbsp; Yazarın adını seviye adının altında gösteriyorlar ve bu ayarlarda değiştirilebiliyor</p>
+  <p>&nbsp; Eski seviyeler hâlâ çalışıyor ve kaydedilince güncelleniyor</p>
+  <p>- Ayarlara arayüz büyüklüğü ayarı eklendi</p>
+  <p>- Seviye düzenleyicideki açılır menüler artık çevirildi</p>
+  <p>- Dil dosyaları artık StreamingAssets'de ve değiştirilebilir</p> 
+  <p>- Düzenleyicide hareket için yeni bir fare imleci eklendi</p>
+  <p>- Seviye Klasörünü Aç düğmesi artık macOS'de görünüyor ve çalışıyor</p>
+  <p>- Müzik ve Ses ayarları için yazı eklendi</p>
+  <p>- Daha Fazla Oyun menüsü artık Taze Adam websitesinde yükleniyor ve her zaman güncel</p>
+  <p>- İyileştirilmiş güncelleme menüsü</p>
+    ]]>
+  </description>
+  <link>https://spacechuck.github.io/taze-adam/tr/news/tazeadam/2-2-2-update</link>
+  <guid isPermaLink="false">db598b93-5bb1-49d1-9937-a1ee2ad48b11f</guid>
+  <pubDate>7 Eylül 2025</pubDate>
+
+ <item>
+  <title>Taze Adam'ın 3. Yıldönümü</title>
+  <description>
+  <![CDATA[
+         <p>Taze Adam artık 3 yaşında!</p>
+        <p>Bu çok özel gün için size çok özel bir hediyem var.</p>
+        <p>(davul sesi)&nbsp;</p>
+        <p><br></p>
+        <p><br></p>
+        <p>Windows ve Linux için Taze Adam v1.0!</p>
+        <p>v1.0 sadece macOS ve WebGL destekliyordu ve Windows ve Linux versiyonu yapamazdım çünkü proje dosyaları artık yok. Ama bazı süper havalı sihirli yöntemlerle&nbsp;(v1.0'ın macOS sürümümdeki bazı dosyaları v1.1'in Windows ve Linux sürümüne kopyaladım ve bir şekilde çalıştı) bu eski sürümü Windows ve Linux'a getirdim!</p>
+        <p>Peki bu sürümün neyi bu kadar özel?</p>
+        <p>Bu sürüm...</p>
+        <p><br></p>
+        <p><br></p>
+        <p>v1.1 ile aynı ama Seviye 1'in 5. bayrağında bitiyor. Bu kadar. Ama yıldönümü 5'in katı değil, zaten büyük bir şey yapmama gerek yoktu.</p>
+        <p>Neyse, indirmeler burada:</p>
+        
+        <h2 id="downloads">İndirmeler</h2>
+        <p><a href="https://drive.google.com/file/d/1uE3Qr56gL3AqaV-0mhY4VTQ3ooRs40Dx/view?usp=share_link">Windows (64-Bit)</a>
+        <a href="https://drive.google.com/file/d/18_TbJk_QXSW5dKz3OLt4sSty0r0GmjWJ/view?usp=sharing">Windows (32-Bit)</a>
+        <a href="https://drive.google.com/file/d/1-_Q2iMfIcqBz053HK8F8IzxWP05BLKAu/view?usp=sharing">macOS</a>
+        <a href="https://drive.google.com/file/d/1MobRyJWABQ-N4neWCzJrCtoGcIRsaizZ/view?usp=sharing">Linux</a></p>
+    ]]>
+  </description>
+  <link>https://spacechuck.github.io/taze-adam/tr/news/tazeadam/3rdanniversary</link>
+  <guid isPermaLink="false">17ee6501-5fa7-495d-aa46-7f737f8e6b03</guid>
+  <pubDate>21 January 2025</pubDate>
+ </item>
+ <item>
+  <title>Taze Adam artık App Store'da!</title>
+  <description>
+  <![CDATA[
+        <p>Dünyanın en taze oyunu artık App Store'da!</p>
+        <p>Şimdi indirin:&nbsp;<a href="https://apps.apple.com/us/app/taze-adam/id1661545935">https://apps.apple.com/us/app/taze-adam/id1661545935</a><span></span></p>
+        <br>
+        <p>(Not: Bu duyuru aşırı eski ve oyun artık App Store'dan kalktı. Yani link çalışmazsa şaşırmayın.)</p>
+    ]]>
+  </description>
+  <link>https://spacechuck.github.io/taze-adam/tr/news/tazeadam/3rdanniversary</link>
+  <guid isPermaLink="false">d459c477-26eb-4442-ae89-fde31229a9c1</guid>
+  <pubDate>31 December 2022</pubDate>
+ </item>
+
+ <item>
+  <title>Taze Adam 2.2 Güncellemesi</title>
+  <description>
+  <![CDATA[
+    <p>Taze Adam 2.2 Google Play ve itch.io'da çıktı! Oyun yakın zamanda App Store'a da gelebilir&trade;.</p>
+    <p><br></p>
+    <p>Eklenen özellikler:</p>
+    <p>Trampoline eklendi</p>
+    <p>Nesne ve karo renklendirmesi ve yanında beyaz karolar eklendi<br></p>
+    <p>Yeni dokular eklendi
+    </p>
+    <p>Spinning Saw eklendi ve Water Top ve Lava Top karolarına animasyonlar eklendi (Bunu Google Play'de yazmayı unutmuşum)</p>
+    <p>Ayarlar menüsü düzenlendi
+    </p>
+    <p>Seviye oluşturucuya otomatik kayıt eklendi
+    </p>
+    <p>Seviye oluşturucuya ızgara gizleme eklendi
+    </p>
+    <p>Seviye oluşturucuya yerleştirme önizlemesi eklendi
+    </p>
+    <p>Yeni ızgara eklendi: Ladders
+    </p>
+    <p>- İçinde zıplayabilen karolar, su gibi
+    </p>
+    <p>Hesap sistemi kaldırıldı
+    </p>
+    <p>- Zaten iyi çalışmıyordu
+    </p>
+    <p>Kayıtlı seviyelere oynama modu eklendi
+    </p>
+    <p>- Düzenleme düğmesine basarak düzenleyiciyi açabilirsiniz
+    </p>
+    <p>Gelecek güncellemeler için bildirim eklendi
+    </p>
+    <p>Seviye oluşturucu rehberi eklendi
+    </p>
+    <p>Mobilde kare hızını arttırıcı bir ayar eklendi</p>
+
+    <div class="list" style="align-items:center">
+        <a href="/taze-adam/assets/tazeadam/screenshots/ss1.png"><img width="350" height="200" src="/taze-adam/assets/tazeadam/screenshots/ss1tb.jpeg"></a>
+        <a href="/taze-adam/assets/tazeadam/screenshots/ss2.png"><img width="350" height="200" src="/taze-adam/assets/tazeadam/screenshots/ss2tb.jpeg"></a>
+        <a href="/taze-adam/assets/tazeadam/screenshots/ss3.png"><img width="350" height="200" src="/taze-adam/assets/tazeadam/screenshots/ss3tb.jpeg"></a>
+    </div>
+    ]]>
+  </description>
+  <link>https://spacechuck.github.io/taze-adam/tr/news/tazeadam/2-2-update</link>
+  <guid isPermaLink="false">eaa95636-3ab4-463d-ba12-c29ca08cef4a</guid>
+  <pubDate>28 September 2024</pubDate>
+ </item>
+
+ <item>
+  <title>Taze Adam 2.2.1 Güncellemesi</title>
+  <description>
+  <![CDATA[
+       <p>Taze Adam v2.2.1; Windows, macOS ve Linux'da çıktı! Android ve WebGL belki&trade;&nbsp;&nbsp;Yakında Geliyor&trade;</p>
+    <p>App Store ve Google Play'e Gelmiyor&trade;</p>
+    <p><br></p>
+    <p>v2.2.1 aynı zamanda oyunu Unity 6'ya güncelliyor. Bu demek başlangıçta Made with Unity logosu artık çıkmayacak. Unity 6 aynı zamanda oyunun sistem gereksinimlerini yükseltiyor, yani oyun artık Windows 10 21H1, macOS 11, Ubuntu 22.04/24.04, iOS 13 ve Android 6.0 gerektiriyor. Bunlara rağmen oyun hâlâ Windows 32-Bit'de çalışıyor. Bu 15 Windows 10 32-Bit kullanıcısı için iyi bir haber.</p>
+    <p>Unity 6 sayesinde bu güncellemenin bir Windows ARM sürümü de var. Çalışıyor mu çalışmıyor mu bilmiyorum, denemek için cihazım yok. Kurucu Windows ARM'da desteklenmiyor.&nbsp;</p>
+    <p>Umarım bu Windows 7 desteğinin bitmesine değer</p>
+    <p><br></p>
+    <p>Güncellemede değişenler:</p>
+    <p>- Seviye oluşturucudaki seviye adı artık değiştirilebilir</p>
+    <p>&nbsp; Değiştirmek seviyenin kaydolduğu yeri değiştirir.</p>
+    <p>&nbsp; Ayarlarda "Tam Seviye Adresini Göster"i açınca seviyenin tam adresini gösterir.</p>
+    <p>- Menüler arası geçişler artık daha hızlı, ve müziği yeniden başlatmıyor.</p>
+    <p>- Seviye Seç ve Ayarlar menülerine yeni sekmeli bir arayüz eklendi.</p>
+    <p>- Arayüz içerisindeki butonların seçim ve vurgulama renkleri tutarlı hâle getirildi.</p>
+    <p>- Seviye oluşturucu ayarları arıtık Ayarlar menüsünde, "Düzenleyici" sekmesinde.</p>
+    <p>- Kumanda desteği (umarım) Unity'nin Input System'ı ile düzeltildi.</p>
+    <p>- Ok tuşları ve kumandalarla menü kullanımı düzeltildi.</p>
+    <p>&nbsp; PgUp, PgDown/L1,R1 sekmeyi değiştirir.</p>
+    <p>- Kumanda ipuçları artık daha tutarlı.</p>
+    <p>- Menüden oyuna geçişte yeni bir yüklenme ekranı eklendi.</p>
+    <p>- Komut satırından oyunu açarken yeni açılış ayarları eklendi.</p>
+    <p>&nbsp; Daha fazla bilgi için &nbsp;<a target="_self" href="/taze-adam/tr/other/tazeadamargs.html">https://spacechuck.github.io/taze-adam/tr/other/tazeadamargs.html</a>'e bakın</p>
+
+    <div class="list" style="align-items:center">
+        <a href="/taze-adam/assets/news/2-2-1-update/ss1.png"><img width="350" height="196" src="/taze-adam/assets/news/2-2-1-update/ss1tb.jpeg"></a>
+        <a href="/taze-adam/assets/news/2-2-1-update/ss2.png"><img width="350" height="196" src="/taze-adam/assets/news/2-2-1-update/ss2tb.jpeg"></a>
+    </div>
+    ]]>
+  </description>
+  <link>https://spacechuck.github.io/taze-adam/tr/news/tazeadam/2-2-1-update</link>
+  <guid isPermaLink="false">a1fcc866-9b32-4201-b8f8-4ff4ee73513e</guid>
+  <pubDate>21 January 2025</pubDate>
+ </item>
+
+<item>
+  <title>Taze Adam 1.8 Güncellemesi</title>
+  <description>
+  <![CDATA[
+        <p>Güncelleme 1.8 çıktı! Bu güncellemenin getirdiği özellikler:<br></p>
+        <p>- Kayıtlı seviyeler menüsü eklendi</p>
+        <p>- Bonus seviye güncellendi<br></p>
+    ]]>
+  </description>
+  <link>https://spacechuck.github.io/taze-adam/tr/news/tazeadam/1-8-update</link>
+  <guid isPermaLink="false">b39e7aae-6bbb-402e-965e-7e270c5c2451</guid>
+  <pubDate>18 December 2022</pubDate>
+ </item>
+ <item>
+  <title>Taze Adam 1.7 Güncellemesi</title>
+  <description>
+  <![CDATA[
+    <p>Yeni 1.7 güncellemesi! Bu güncellemede gelen özellikler:</p>
+    <p>-Bitiş bayrağı eklendi</p>
+    <p>-Yeni bonus seviye</p>
+    <p>-Pencere modu düzeltildi</p>
+    ]]>
+  </description>
+  <link>https://spacechuck.github.io/taze-adam/tr/news/tazeadam/1-7-update</link>
+  <guid isPermaLink="false">c5c975af-1165-498e-bc61-67ce2d7d35c9</guid>
+  <pubDate>07 December 2022</pubDate>
+ </item>
+</channel>
+</rss>

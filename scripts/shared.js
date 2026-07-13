@@ -3,7 +3,7 @@ class Header extends HTMLElement {
       this.innerHTML = `
         <div class="navbar">
     <a target="_self" href="/taze-adam/index.html"><img src="/taze-adam/assets/TazeAdamLogo.png" alt="Taze Adam"></a>
-    <a style="color: #fe2323" target="_self" href="https://tazeadam.pages.dev">New website!! I couldn't be bothered to add redirects to like 4,000 pages so click me instead</a>
+    <a style="color: #fe2323" target="_self" href="https://tazeadam.pages.dev">Visit the new website!</a>
     <a target="_self" href="/taze-adam/games">Games</a>
     <a target="_self" href="/taze-adam/news">News</a>
     <a target="_self" href="/taze-adam/other">Other</a>
@@ -37,7 +37,7 @@ class HeaderGames extends HTMLElement {
       this.innerHTML = `
         <div class="navbar">
     <a target="_self" href="/taze-adam/index.html"><img src="/taze-adam/assets/TazeAdamLogo.png" alt="Taze Adam"></a>
-    <a style="color: #fe2323" target="_self" href="https://tazeadam.pages.dev/games">New website!! I couldn't be bothered to add redirects to like 4,000 pages so click me instead</a>
+    <a style="color: #fe2323" target="_self" href="https://tazeadam.pages.dev/games">Visit the new website!</a>
     <a target="_self" href="/taze-adam/games" class="active">Games</a>
     <a target="_self" href="/taze-adam/news">News</a>
     <a target="_self" href="/taze-adam/other">Other</a>
@@ -60,7 +60,7 @@ class HeaderNews extends HTMLElement {
       this.innerHTML = `
         <div class="navbar">
     <a target="_self" href="/taze-adam/index.html"><img src="/taze-adam/assets/TazeAdamLogo.png" alt="Taze Adam"></a>
-    <a style="color: #fe2323" target="_self" href="https://tazeadam.pages.dev/news">New website!! I couldn't be bothered to add redirects to like 4,000 pages so click me instead</a>
+    <a style="color: #fe2323" target="_self" href="https://tazeadam.pages.dev/news">Visit the new website!</a>
     <a target="_self" href="/taze-adam/games">Games</a>
     <a target="_self" href="/taze-adam/news" class="active">News</a>
     <a target="_self" href="/taze-adam/other">Other</a>
@@ -83,7 +83,7 @@ class HeaderOther extends HTMLElement {
       this.innerHTML = `
         <div class="navbar">
     <a target="_self" href="/taze-adam/index.html"><img src="/taze-adam/assets/TazeAdamLogo.png" alt="Taze Adam"></a>
-    <a style="color: #fe2323" target="_self" href="https://tazeadam.pages.dev/other">New website!! I couldn't be bothered to add redirects to like 4,000 pages so click me instead</a>
+    <a style="color: #fe2323" target="_self" href="https://tazeadam.pages.dev/other">Visit the new website!</a>
     <a target="_self" href="/taze-adam/games">Games</a>
     <a target="_self" href="/taze-adam/news">News</a>
     <a target="_self" href="/taze-adam/other" class="active">Other</a>

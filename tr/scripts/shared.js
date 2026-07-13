@@ -3,6 +3,7 @@ class Header extends HTMLElement {
       this.innerHTML = `
         <div class="navbar">
     <a target="_self" href="/taze-adam/tr/index.html"><img src="/taze-adam/assets/TazeAdamLogo.png" alt="Taze Adam"></a>
+    <a style="color: #fe2323" target="_self" href="https://tazeadam.pages.dev/tr">Yeni websiteyi ziyaret edin!</a>
     <a target="_self" href="/taze-adam/tr/games">Oyunlar</a>
     <a target="_self" href="/taze-adam/tr/news">Haberler</a>
     <a target="_self" href="/taze-adam/tr/other">Diğer</a>
@@ -36,6 +37,7 @@ class HeaderGames extends HTMLElement {
       this.innerHTML = `
         <div class="navbar">
     <a target="_self" href="/taze-adam/tr/index.html"><img src="/taze-adam/assets/TazeAdamLogo.png" alt="Taze Adam"></a>
+        <a style="color: #fe2323" target="_self" href="https://tazeadam.pages.dev/games">Yeni websiteyi ziyaret edin!</a>
     <a target="_self" href="/taze-adam/tr/games" class="active">Oyunlar</a>
     <a target="_self" href="/taze-adam/tr/news">Haberler</a>
     <a target="_self" href="/taze-adam/tr/other">Diğer</a>
@@ -58,6 +60,7 @@ class HeaderNews extends HTMLElement {
       this.innerHTML = `
         <div class="navbar">
     <a target="_self" href="/taze-adam/tr/index.html"><img src="/taze-adam/assets/TazeAdamLogo.png" alt="Taze Adam"></a>
+    <a style="color: #fe2323" target="_self" href="https://tazeadam.pages.dev/news">Yeni websiteyi ziyaret edin!</a>
     <a target="_self" href="/taze-adam/tr/games">Oyunlar</a>
     <a target="_self" href="/taze-adam/tr/news" class="active">Haberler</a>
     <a target="_self" href="/taze-adam/tr/other">Diğer</a>
@@ -80,6 +83,7 @@ class HeaderOther extends HTMLElement {
       this.innerHTML = `
         <div class="navbar">
     <a target="_self" href="/taze-adam/tr/index.html"><img src="/taze-adam/assets/TazeAdamLogo.png" alt="Taze Adam"></a>
+    <a style="color: #fe2323" target="_self" href="https://tazeadam.pages.dev/other">Yeni websiteyi ziyaret edin!</a>
     <a target="_self" href="/taze-adam/tr/games">Oyunlar</a>
     <a target="_self" href="/taze-adam/tr/news">Haberler</a>
     <a target="_self" href="/taze-adam/tr/other" class="active">Diğer</a>
